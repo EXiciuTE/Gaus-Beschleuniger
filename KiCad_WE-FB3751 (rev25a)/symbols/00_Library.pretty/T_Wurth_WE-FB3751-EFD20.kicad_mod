@@ -1,0 +1,205 @@
+(footprint "T_Wurth_WE-FB3751-EFD20"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Flyback Transformer for LT3751, body 28.7x21.97x11.43mm, https://www.we-online.com/en/components/products/WE-FB-3751#/articles/WE-FB-3751-EFD20")
+	(tags "SMT")
+	(property "Reference" "REF**"
+		(at 0 -12.235 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cd4ce751-a014-4e39-b4f3-11927b0c7e65")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "T_Wurth_WE-FB3751-EFD20"
+		(at 0 12.235 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2dca3c1-d9ff-40c3-ba72-f38d6a3d2094")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/750032052.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5acfc6ff-ac36-4ff1-9be7-e49e8a960f0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f557bc52-3e62-4c2c-b16e-9f8359163e85")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -14.685 -8.26)
+		(end -14.685 -6.74)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4b593f65-0d57-4440-ba63-df5fdd40414f")
+	)
+	(fp_rect
+		(start -14.46 -11.095)
+		(end 14.46 11.095)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "66782f54-f4d9-455e-a8ff-85f0cbe7ce4d")
+	)
+	(fp_rect
+		(start -14.6 -11.235)
+		(end 14.6 11.235)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "8786dfb2-a625-4ece-b331-b7aca2b1e1f2")
+	)
+	(fp_line
+		(start -14.35 -8.26)
+		(end -13.438 -7.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "821db1b4-1abc-4a8e-b9c7-b17e67f22bfc")
+	)
+	(fp_line
+		(start -14.35 -6.74)
+		(end -13.438 -7.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e346730f-d9c0-4d80-810c-2135f7ea20f0")
+	)
+	(fp_rect
+		(start -14.35 -10.985)
+		(end 14.35 10.985)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a639735d-1992-481c-8e04-c4eb6fcbea57")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d5e0364c-3df6-443d-a28f-ed0f01981608")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -11.33 -7.5)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f2770280-b59f-4649-80d7-081b6d025f02")
+	)
+	(pad "2" smd rect
+		(at -11.33 -3.75)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9a745505-97e0-46a8-8d83-5910414069ce")
+	)
+	(pad "3" smd rect
+		(at -11.33 0)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c00bf7dc-ab13-4774-a57c-6e646b49c1a1")
+	)
+	(pad "4" smd rect
+		(at -11.33 3.75)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8c22e916-6a78-4740-98b8-a82fbd7307f2")
+	)
+	(pad "5" smd rect
+		(at -11.33 7.5)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ee7b7aac-edf8-4975-81c3-4759b6d9565e")
+	)
+	(pad "6" smd rect
+		(at 11.33 7.5)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5b9ddcf5-6852-4585-9ae3-095f7c4aa17b")
+	)
+	(pad "7" smd rect
+		(at 11.33 3.75)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "71c71aed-6f41-4e49-97a1-9973e6707026")
+	)
+	(pad "8" smd rect
+		(at 11.33 0)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8a63cb18-02e2-46b9-a748-6199a1b12b76")
+	)
+	(pad "9" smd rect
+		(at 11.33 -3.75)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d6280002-0fbb-402b-8407-711179d585b4")
+	)
+	(pad "10" smd rect
+		(at 11.33 -7.5)
+		(size 2.92 1.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "78f661c2-02fa-499f-b58c-bc19a7aa61d8")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/KiCad_WE-FB3751 (rev25a)/3dmodels/Transformer_SMD_Wurth.3dshapes/T_Wurth_WE-FB3751-EFD20.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

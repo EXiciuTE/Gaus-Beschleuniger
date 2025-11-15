@@ -1,0 +1,382 @@
+(footprint "Toggle_Switch_SPDT_PCB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "PCB mounted toggle switch footprint 3pin. SW-T2-2E-A-A2-M1")
+	(tags "adamtec spdt toggel lever SW-T2-2")
+	(property "Reference" "REF**"
+		(at 0 -3 0)
+		(layer "F.SilkS")
+		(uuid "a709b518-dd2b-4fd2-b0b7-663c00bb4dbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Value "
+		(at 0 12.5 0)
+		(layer "F.SilkS")
+		(uuid "b5f7b3b9-7238-4eb5-b314-ba026349c169")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/203458/sw-t2-2x-a-a2-m1-data-sheet.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9593f4f0-1678-4c7b-9e06-27e1b75d1c7a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3b021d8-9023-4c2c-80f2-2efa06bd8dcb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.03 -1.98)
+		(end 4.03 -1.98)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bfa0068-b844-49da-bacc-c68316083de8")
+	)
+	(fp_line
+		(start -4.03 -0.22)
+		(end -4.03 -1.98)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de01bd8e-1cb2-409f-9469-ee1d48b685a1")
+	)
+	(fp_line
+		(start -4.03 9.62)
+		(end -3.53 9.62)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b12452c2-3865-4e41-88ed-3cfe5637eb0e")
+	)
+	(fp_line
+		(start -4.03 11.38)
+		(end -4.03 9.62)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93c04a79-e218-43c8-b1a9-5da3449282bd")
+	)
+	(fp_line
+		(start -3.53 -0.22)
+		(end -4.03 -0.22)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17b92c07-880c-4818-9297-8eaaa68619fd")
+	)
+	(fp_line
+		(start -3.53 9.62)
+		(end -3.53 -0.22)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e7853712-cd1c-4a05-9976-f452bc505e1d")
+	)
+	(fp_line
+		(start 3.53 -0.22)
+		(end 3.53 9.62)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3cb88382-76da-49bb-993c-5382d9b564a5")
+	)
+	(fp_line
+		(start 3.53 9.62)
+		(end 4.03 9.62)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "94c7204b-5024-410a-9225-19b5af557b64")
+	)
+	(fp_line
+		(start 4.03 -1.98)
+		(end 4.03 -0.22)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "02fe886f-27b4-4865-87c9-352fb87f42ba")
+	)
+	(fp_line
+		(start 4.03 -0.22)
+		(end 3.53 -0.22)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0bf7234-feed-46fe-a3ea-afa4b13bc4b9")
+	)
+	(fp_line
+		(start 4.03 9.62)
+		(end 4.03 11.38)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b97bce9a-bfbe-475e-afed-aa2594e5db3e")
+	)
+	(fp_line
+		(start 4.03 11.38)
+		(end -4.03 11.38)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78b64ff3-5922-46c9-94d4-2ebe34ff7326")
+	)
+	(fp_line
+		(start -4.2 -2.15)
+		(end 4.2 -2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8efd8d1-203c-421b-ab7e-8c54074275fd")
+	)
+	(fp_line
+		(start -4.2 11.55)
+		(end -4.2 -2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "206ae3cf-18fc-4070-913b-3685927435fc")
+	)
+	(fp_line
+		(start 4.2 -2.15)
+		(end 4.2 11.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c43a88ea-dc7a-4af6-b439-de381b4a7443")
+	)
+	(fp_line
+		(start 4.2 11.55)
+		(end -4.2 11.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8856701-ed95-4dd9-be05-4dea6b5e63a6")
+	)
+	(fp_line
+		(start -3.95 -1.9)
+		(end -3.95 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d908eac7-b2e8-4729-b7e7-b805468faa1b")
+	)
+	(fp_line
+		(start -3.95 -1.9)
+		(end 3.95 -1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b3d5ccf7-327d-4c9f-8552-4a5215d11c80")
+	)
+	(fp_line
+		(start -3.95 -0.3)
+		(end -3.45 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3bce5686-8c21-48a8-9950-e9f157090216")
+	)
+	(fp_line
+		(start -3.95 9.7)
+		(end -3.95 11.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "033238eb-c4a3-4062-a4fa-f3a24a5dc6fc")
+	)
+	(fp_line
+		(start -3.45 9.7)
+		(end -3.95 9.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e15cd490-b262-4cd8-8118-2119784ec1c3")
+	)
+	(fp_line
+		(start -3.45 9.7)
+		(end -3.45 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fd26c8e1-4783-445a-811f-69cec025994a")
+	)
+	(fp_line
+		(start 3.45 -0.3)
+		(end 3.45 9.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d6074a81-cd55-44bc-a3b7-a958d3eb0139")
+	)
+	(fp_line
+		(start 3.45 -0.3)
+		(end 3.95 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f4b3a08a-8c81-49f2-bb92-445bc8fa797b")
+	)
+	(fp_line
+		(start 3.95 -0.3)
+		(end 3.95 -1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "54a6744a-737a-4302-9bba-af16fae71acc")
+	)
+	(fp_line
+		(start 3.95 9.7)
+		(end 3.45 9.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f4f7318b-8969-469c-8d58-0af2686e5109")
+	)
+	(fp_line
+		(start 3.95 11.3)
+		(end -3.95 11.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "066e34e1-e7bd-4430-b246-bf9b83f21343")
+	)
+	(fp_line
+		(start 3.95 11.3)
+		(end 3.95 9.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "25456362-04b4-41fa-9d51-67ebfc475376")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -3 0)
+		(layer "F.Fab")
+		(uuid "c9187063-ea04-4d4c-a2e3-49dd7a46cd60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "78bc71e4-8408-4b5b-a449-d6e8436e4e28")
+	)
+	(pad "2" thru_hole circle
+		(at 0 4.7)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f79218dd-b933-4ab2-8ab8-6216eaf81fed")
+	)
+	(pad "3" thru_hole circle
+		(at 0 9.4)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0dcd1162-f461-483a-9726-70e3dbd18fd2")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/toggle-switch-pcb-mounted-spdt-dpdt-3way-1.snapshot.20/Jimmis_Toggle_Switch_PCB.3dshapes/Toggle_Switch_SPDT_PCB.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
