@@ -4127,6 +4127,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-101KL"
+			(at 246.38 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "98bca9ee-5ad6-442e-8935-95ccbe63e464")
 		)
@@ -4245,7 +4254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7136/1080_PT908-7B-F.pdf"
 			(at 257.81 129.54 0)
 			(effects
 				(font
@@ -4390,7 +4399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1187/LTE-302-M.PDF"
 			(at 246.38 83.82 0)
 			(effects
 				(font
@@ -4640,6 +4649,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 48.26 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "58f9c9c7-fffa-46e2-8b3a-f632184c856d")
 		)
@@ -4788,6 +4806,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RNV14FAL470K"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f8fc18b7-d7e7-42e7-996e-e01edfafeb96")
 		)
@@ -4798,75 +4825,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 142.24 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2f62b992-4711-4352-8fcc-23c58a99cb98")
-		(property "Reference" "C4"
-			(at 143.51 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330u"
-			(at 143.51 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 143.2052 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 142.24 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f9945a28-0891-4fae-b0a1-9e38f3ca4c84")
-		)
-		(pin "2"
-			(uuid "4114df31-6145-4176-8c6b-f88b4edf93c5")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -4909,7 +4867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7136/1080_PT908-7B-F.pdf"
 			(at 218.44 82.55 0)
 			(effects
 				(font
@@ -5138,6 +5096,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 80.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82211ac1-1ac6-42fc-86d6-dd0dcbd628bf")
 		)
@@ -5200,6 +5167,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 207.01 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-101KL"
 			(at 207.01 66.04 0)
 			(effects
 				(font
@@ -5373,6 +5349,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "449433d9-056d-4912-b996-67d65b6a04f6")
 		)
@@ -5390,15 +5375,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 134.62 62.23 0)
+		(at 142.24 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3e50f402-093e-4c58-a07f-04a0078f339e")
-		(property "Reference" "C3"
-			(at 135.89 59.69 0)
+		(uuid "3ddd0f10-2916-4203-92d7-296858e2d56f")
+		(property "Reference" "C8"
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5406,8 +5391,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330u"
-			(at 135.89 64.77 0)
+		(property "Value" "1000uF"
+			(at 140.97 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5415,8 +5400,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 135.5852 66.04 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 143.2052 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5424,8 +5409,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 134.62 62.23 0)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 142.24 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5434,7 +5419,16 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 134.62 62.23 0)
+			(at 142.24 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 142.24 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5443,15 +5437,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9128124d-9bf6-48cd-9112-4d882d7acb28")
+			(uuid "b1761259-69a9-480a-8d2f-e1d6130f81c2")
 		)
 		(pin "2"
-			(uuid "79f4bf29-0685-4475-9adf-4e8b16bb91f5")
+			(uuid "9aae798e-24c1-4120-99a4-c5b7c06972a1")
 		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C3")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -5518,75 +5512,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 127 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4b622e78-e5bd-45fc-b483-4256e7d40bb0")
-		(property "Reference" "C2"
-			(at 128.27 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330u"
-			(at 128.27 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 127.9652 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 127 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d74a01b2-2dd9-43af-b39d-8218015e1626")
-		)
-		(pin "2"
-			(uuid "459d2efe-a408-4d61-80f0-1b9720bd3167")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -5729,6 +5654,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 80.01 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ade328b2-2d40-4055-9a1b-b907464e78d7")
 		)
@@ -5791,6 +5725,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-101KL"
 			(at 246.38 113.03 0)
 			(effects
 				(font
@@ -5939,6 +5882,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27dbba3d-120d-4c7f-9823-635fb88dda10")
 		)
@@ -6001,6 +5953,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 220.98 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
 			(at 220.98 113.03 0)
 			(effects
 				(font
@@ -6079,6 +6040,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RNV14FAL470K"
+			(at 48.26 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac9651a5-c92c-4a63-9cce-1e982b849e1f")
 		)
@@ -6141,6 +6111,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 48.26 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RNV14FAL470K"
 			(at 48.26 115.57 0)
 			(effects
 				(font
@@ -6811,6 +6790,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 127 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74870a64-e513-4705-8fb4-af7740d58c15")
+		(property "Reference" "C2"
+			(at 128.27 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 125.73 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 127.9652 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 127 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 127 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 127 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b59d01ee-a3df-45e4-ab7e-00652cac18bd")
+		)
+		(pin "2"
+			(uuid "c7492bad-7de2-4be8-8634-ae6301ba5d90")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 48.26 86.36 0)
 		(unit 1)
@@ -7063,6 +7120,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 220.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92e40402-e353-420f-8a29-58049877af6c")
 		)
@@ -7125,6 +7191,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 207.01 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-101KL"
 			(at 207.01 113.03 0)
 			(effects
 				(font
@@ -7321,7 +7396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1187/LTE-302-M.PDF"
 			(at 207.01 130.81 0)
 			(effects
 				(font
@@ -7419,6 +7494,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 80.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
 			(at 80.01 134.62 0)
 			(effects
 				(font
@@ -7585,6 +7669,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 260.35 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4b32212d-f44b-4391-9b9c-fdf03a62be7a")
 		)
@@ -7602,15 +7695,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 127 120.65 0)
+		(at 134.62 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "95281805-3af4-4143-9f9c-aeffb87d998b")
-		(property "Reference" "C6"
-			(at 128.27 118.11 0)
+		(uuid "95f605dd-744b-4382-98f4-6f107df4923e")
+		(property "Reference" "C3"
+			(at 135.89 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7618,8 +7711,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330u"
-			(at 128.27 123.19 0)
+		(property "Value" "1000uF"
+			(at 133.35 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7627,8 +7720,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 127.9652 124.46 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 135.5852 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7636,8 +7729,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 127 120.65 0)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 134.62 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7646,7 +7739,16 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 127 120.65 0)
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 134.62 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7655,15 +7757,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "4fccd2a8-ad8d-478d-bfad-83a7007c8075")
+			(uuid "2ce74b5e-ee07-4e26-bf2b-1c50dabec162")
 		)
 		(pin "2"
-			(uuid "0fbc4244-4be6-4b98-a682-eeec5af04721")
+			(uuid "b1921a7a-15d8-4596-ac22-9166cc1cacfb")
 		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C6")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -7765,6 +7867,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 127 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9939bc95-b10c-4c1f-970d-a6c06d4364e3")
+		(property "Reference" "C6"
+			(at 128.27 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 125.73 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 127.9652 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 127 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 127 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 127 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f0af548-80c0-44b6-96e3-74239885da8b")
+		)
+		(pin "2"
+			(uuid "8a497599-ca71-4b27-9d0f-1a4c78a6e8d9")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 260.35 90.17 0)
 		(unit 1)
@@ -7825,75 +8005,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 119.38 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9b3ead14-7f90-40bb-b694-c45bc07265bb")
-		(property "Reference" "C5"
-			(at 120.65 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330u"
-			(at 120.65 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 120.3452 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 119.38 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 119.38 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f4f97bad-47da-4e2b-b10b-3b0f30576d55")
-		)
-		(pin "2"
-			(uuid "0115df4f-a88c-4fc2-a3ba-d9433bc506a7")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -8020,6 +8131,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 154.94 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74f5fefc-cba0-49fc-bb3f-6c562b3beb69")
 		)
@@ -8072,7 +8192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7136/1080_PT908-7B-F.pdf"
 			(at 218.44 129.54 0)
 			(effects
 				(font
@@ -8220,8 +8340,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330u"
-			(at 120.65 64.77 0)
+		(property "Value" "1000uF"
+			(at 118.11 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8229,7 +8349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
 			(at 120.3452 66.04 0)
 			(effects
 				(font
@@ -8238,7 +8358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
 			(at 119.38 62.23 0)
 			(effects
 				(font
@@ -8248,6 +8368,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
 			(at 119.38 62.23 0)
 			(effects
 				(font
@@ -8474,6 +8603,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 134.62 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a940ca2a-2324-4239-b22b-33e87ded27e2")
+		(property "Reference" "C7"
+			(at 135.89 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 133.35 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 135.5852 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 134.62 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 134.62 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 134.62 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "75b67540-1e26-4987-9ff1-64fb25af278f")
+		)
+		(pin "2"
+			(uuid "1850a66c-ddf9-4157-98af-8504f61e1b57")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 154.94 83.82 0)
 		(unit 1)
@@ -8576,7 +8783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7136/1080_PT908-7B-F.pdf"
 			(at 257.81 82.55 0)
 			(effects
 				(font
@@ -8749,75 +8956,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 142.24 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "af8177c1-be80-4003-b29a-52823661494f")
-		(property "Reference" "C8"
-			(at 143.51 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330u"
-			(at 143.51 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 143.2052 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 142.24 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7c7cd515-fb71-4e2c-9696-e90c4bee825d")
-		)
-		(pin "2"
-			(uuid "33bc3848-a113-4eb1-835d-7cd087139f45")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -9102,7 +9240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1187/LTE-302-M.PDF"
 			(at 207.01 83.82 0)
 			(effects
 				(font
@@ -9208,6 +9346,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 260.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2057b177-8941-437d-95f1-1bc370439493")
 		)
@@ -9278,6 +9425,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RNV14FAL470K"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27b9dd49-d4b9-4025-891f-bd8060668df8")
 		)
@@ -9330,7 +9486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1187/LTE-302-M.PDF"
 			(at 246.38 130.81 0)
 			(effects
 				(font
@@ -9428,6 +9584,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 91.44 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SQP10AJB-2K"
 			(at 91.44 115.57 0)
 			(effects
 				(font
@@ -9650,6 +9815,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 142.24 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cc24773e-7d5c-4953-821f-0178d41ce825")
+		(property "Reference" "C4"
+			(at 143.51 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 140.97 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 143.2052 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 142.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 142.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 142.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97bddf42-572d-4c9a-9fcc-ec84163549be")
+		)
+		(pin "2"
+			(uuid "2d535187-a361-40dc-aa58-b013687b1cbd")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 48.26 80.01 0)
 		(unit 1)
@@ -9704,6 +9947,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 48.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "686695dd-51cb-49bd-8eb3-d007afedccbb")
 		)
@@ -9714,75 +9966,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 134.62 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d08d33f1-b8e3-4304-8b04-ffbe0d899823")
-		(property "Reference" "C7"
-			(at 135.89 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330u"
-			(at 135.89 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 135.5852 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 134.62 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0c59787a-7abe-4834-a682-05fb129af299")
-		)
-		(pin "2"
-			(uuid "84cde0c6-78ef-4f7e-af2b-40b915d7773b")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -10057,6 +10240,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 119.38 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d981c7d0-aa59-4871-a3db-e6cbf77103a7")
+		(property "Reference" "C5"
+			(at 120.65 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 118.11 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 120.3452 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/SMRN-e.PDF"
+			(at 119.38 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 119.38 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESMR401VSN102MA50S"
+			(at 119.38 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9724599d-3d89-45ca-ae44-5eea6849451f")
+		)
+		(pin "2"
+			(uuid "2e04f075-91cd-4069-a68d-5d156aacdfa9")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 207.01 104.14 0)
 		(unit 1)
@@ -10235,6 +10496,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 91.44 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SQP10AJB-2K"
 			(at 91.44 57.15 0)
 			(effects
 				(font

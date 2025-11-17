@@ -286,7 +286,7 @@
 				)
 			)
 			(property "Description" "Primary 3-24V 300kHz, Dual Secondary 300V-150m Flyback Transformer, PCB"
-				(at 0 0 0)
+				(at 2.794 -18.034 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -574,25 +574,6 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at 0 0 0)
-					(length 2.54)
-					(hide yes)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
 					(at 5.08 2.54 180)
 					(length 2.54)
@@ -622,6 +603,82 @@
 						)
 					)
 					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 11.43 19.05 0)
+					(length 2.54)
+					(hide yes)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 11.43 16.51 0)
+					(length 2.54)
+					(hide yes)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 11.43 13.97 0)
+					(length 2.54)
+					(hide yes)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 11.43 11.43 0)
+					(length 2.54)
+					(hide yes)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4164,6 +4221,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 86.36 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "36148e2d-a4dd-4259-8900-570554ae2dcd")
+		(property "Reference" "R30"
+			(at 86.36 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 86.36 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 86.36 89.408 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 86.36 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 86.36 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f9025300-df11-48c8-8935-c0f17bf3949c")
+		)
+		(pin "1"
+			(uuid "ee8dbd93-4fc6-48ab-bc24-5ebec34f7bdd")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/89601b47-33d3-45bd-90a7-6d36528e5bd8"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 167.64 77.47 0)
 		(unit 1)
@@ -4696,6 +4829,15 @@
 		(pin "1"
 			(uuid "acf791a6-0697-4586-b869-f0454d3110e1")
 		)
+		(pin "3"
+			(uuid "6cf6e353-6756-482e-b6d2-f3a0d7cc5a57")
+		)
+		(pin "8"
+			(uuid "94176517-dd18-45d9-b6a8-48dd38d2858c")
+		)
+		(pin "9"
+			(uuid "2f0d5b13-16b2-480d-9a13-eaed9bac3713")
+		)
 		(instances
 			(project ""
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/89601b47-33d3-45bd-90a7-6d36528e5bd8"
@@ -5207,6 +5349,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 99.06 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82c5d1a9-5dc0-4a0d-b550-168fa93e8833")
 		)
@@ -5459,7 +5610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 143.51 79.248 90)
 			(effects
 				(font
@@ -5486,7 +5637,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-0760K4L"
+		(property "MPN" "RC0603FR-0760K4L"
 			(at 143.51 77.47 0)
 			(effects
 				(font
@@ -5505,82 +5656,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/89601b47-33d3-45bd-90a7-6d36528e5bd8"
 					(reference "R29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 86.36 87.63 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "aa3d16ce-7a34-44b6-9eb1-363d62b05c19")
-		(property "Reference" "R30"
-			(at 86.36 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20k0"
-			(at 86.36 85.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 86.36 85.852 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 86.36 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0805FR-0720KL"
-			(at 86.36 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f6b712a7-94c9-4074-b28c-62a260a03f09")
-		)
-		(pin "2"
-			(uuid "de72e0e4-7245-4583-bc9b-4926d69598f5")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/89601b47-33d3-45bd-90a7-6d36528e5bd8"
-					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -6378,7 +6453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 135.89 84.328 90)
 			(effects
 				(font
@@ -6405,7 +6480,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-0743KL"
+		(property "MPN" "RC0603FR-0743KL"
 			(at 135.89 82.55 0)
 			(effects
 				(font

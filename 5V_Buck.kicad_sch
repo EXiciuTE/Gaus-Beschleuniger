@@ -1848,7 +1848,7 @@
 			(uuid "30b6f084-5931-4431-b5e4-eca4aa40109f")
 		)
 		(instances
-			(project ""
+			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/2ccd1446-b669-433d-a90b-77e01738eddf"
 					(reference "R2")
 					(unit 1)
@@ -1925,7 +1925,7 @@
 			(uuid "5cfb466f-2392-4544-81a9-f035a46e67f8")
 		)
 		(instances
-			(project ""
+			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/2ccd1446-b669-433d-a90b-77e01738eddf"
 					(reference "L1")
 					(unit 1)
@@ -2210,7 +2210,7 @@
 			(uuid "a61b1b15-fb02-4ad9-a1f6-344b2ab52215")
 		)
 		(instances
-			(project ""
+			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/2ccd1446-b669-433d-a90b-77e01738eddf"
 					(reference "#PWR04")
 					(unit 1)
@@ -2384,7 +2384,7 @@
 			(uuid "42a0a6ef-33f3-43a4-b61e-d8447ea0ebaf")
 		)
 		(instances
-			(project ""
+			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/2ccd1446-b669-433d-a90b-77e01738eddf"
 					(reference "C9")
 					(unit 1)
@@ -2462,7 +2462,7 @@
 			(uuid "cd67e04f-5a46-422a-a1bb-d408b533d348")
 		)
 		(instances
-			(project ""
+			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/2ccd1446-b669-433d-a90b-77e01738eddf"
 					(reference "R25")
 					(unit 1)

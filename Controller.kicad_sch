@@ -2149,7 +2149,7 @@
 	)
 	(text "D8-D11\nINT0-INT3"
 		(exclude_from_sim no)
-		(at 100.33 87.63 0)
+		(at 106.68 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2378,6 +2378,16 @@
 			(type default)
 		)
 		(uuid "1fa26f25-f96d-4ccf-be5f-28c1b57ca856")
+	)
+	(wire
+		(pts
+			(xy 90.17 81.28) (xy 90.17 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2080aff6-579b-49fb-9e84-52159e61f63a")
 	)
 	(wire
 		(pts
@@ -2761,16 +2771,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 80.01) (xy 90.17 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a93a0d77-1c3f-4dc6-964d-ac7baf00ceda")
-	)
-	(wire
-		(pts
 			(xy 248.92 105.41) (xy 248.92 107.95)
 		)
 		(stroke
@@ -2821,6 +2821,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 90.17) (xy 90.17 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b480fbb9-8136-4ca4-a727-ab5c7d005101")
+	)
+	(wire
+		(pts
 			(xy 248.92 140.97) (xy 248.92 143.51)
 		)
 		(stroke
@@ -2841,16 +2851,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 71.12) (xy 90.17 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c03ad9a6-a122-4980-aad4-e826558a8b1b")
-	)
-	(wire
-		(pts
 			(xy 90.17 62.23) (xy 90.17 60.96)
 		)
 		(stroke
@@ -2858,6 +2858,16 @@
 			(type default)
 		)
 		(uuid "c10086b3-161f-4ee7-8ae3-3d2862dd6c6a")
+	)
+	(wire
+		(pts
+			(xy 90.17 71.12) (xy 90.17 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3842edc-2983-429d-9671-f8d682e9265a")
 	)
 	(wire
 		(pts
@@ -3406,6 +3416,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 90.17 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64c4bfd1-bf75-4b49-be40-a4b04a19c36d")
 		)
@@ -3416,74 +3435,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
 					(reference "R37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 173.99 140.97 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "238f4700-2809-4a8b-a140-3b7f1074d4e4")
-		(property "Reference" "R39"
-			(at 173.99 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4k7"
-			(at 173.99 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 173.99 139.192 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 173.99 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b401d861-2dd9-4b86-b939-f3ab4584c9b2")
-		)
-		(pin "1"
-			(uuid "89b50fe6-cc91-4c50-9044-b1a0abf98083")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
-					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -3678,6 +3629,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 257.81 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
 			(at 257.81 158.75 0)
 			(effects
 				(font
@@ -4128,6 +4088,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 180.34 143.51 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "53e6d779-a08b-4b77-b9ca-52714bd8104f")
+		(property "Reference" "R33"
+			(at 179.07 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 179.07 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 180.34 141.732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 180.34 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 180.34 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1c532274-cc32-45c1-80fe-9a30fc22cda4")
+		)
+		(pin "1"
+			(uuid "d82f0967-cdf6-4e70-a6d6-84387b3cdd11")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 266.7 123.19 180)
 		(unit 1)
@@ -4356,6 +4394,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 257.81 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce30d141-79b4-4548-b113-bd8f33a1e74e")
 		)
@@ -4373,34 +4420,34 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 90.17 76.2 180)
+		(at 90.17 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "68100900-f64d-4f92-8a44-caa23a6fe1cc")
-		(property "Reference" "R40"
-			(at 92.71 74.9299 0)
+		(uuid "6b167cd4-3d22-49db-91ed-dcd7bd59c7c0")
+		(property "Reference" "R39"
+			(at 92.71 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "2k"
-			(at 92.71 77.4699 0)
+		(property "Value" "1k"
+			(at 92.71 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 91.948 76.2 90)
+			(at 88.392 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +4456,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 76.2 0)
+			(at 90.17 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4418,7 +4465,16 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 90.17 76.2 0)
+			(at 90.17 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-101KL"
+			(at 90.17 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4427,15 +4483,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "90e0f6e2-87c1-4c32-bc06-83819583740c")
+			(uuid "fb9ce31c-7cc9-4dc6-8965-4b4f60dfcb47")
 		)
 		(pin "1"
-			(uuid "226d7e2e-3b92-4a8d-bc81-afcd4a445428")
+			(uuid "2a45903f-7570-49ae-881e-ef365bae16e5")
 		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
-					(reference "R40")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -4568,6 +4624,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 257.81 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "767e6713-fd3f-4ff9-a9ad-bc84c33342cb")
 		)
@@ -4584,8 +4649,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 173.99 140.97 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9de36a2a-2895-4b51-acb0-78d03f596176")
+		(property "Reference" "R38"
+			(at 172.72 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 172.72 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 173.99 139.192 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 173.99 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 173.99 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
+			(at 173.99 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1f3c5743-e908-4ce9-8d09-053a21a20d08")
+		)
+		(pin "1"
+			(uuid "a3767621-ecd9-4756-8074-f4edf4f23ee1")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 90.17 81.28 0)
+		(at 90.17 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4594,7 +4737,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e34ed02-5879-43ce-aacc-2af6fc5f4236")
 		(property "Reference" "#PWR062"
-			(at 90.17 87.63 0)
+			(at 90.17 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4603,7 +4746,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 90.17 86.36 0)
+			(at 90.17 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4611,7 +4754,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 81.28 0)
+			(at 90.17 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4620,7 +4763,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 81.28 0)
+			(at 90.17 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4629,7 +4772,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 90.17 81.28 0)
+			(at 90.17 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4904,6 +5047,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 153.67 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-0710KL"
 			(at 153.67 58.42 0)
 			(effects
 				(font
@@ -5493,73 +5645,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 180.34 143.51 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eeb98cae-b5c9-41c7-af8c-5fc3a3fd3b15")
-		(property "Reference" "R38"
-			(at 180.34 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4k7"
-			(at 180.34 139.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 180.34 141.732 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 180.34 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 180.34 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3335b36e-57a0-46c5-8ec7-926807d7d519")
-		)
-		(pin "1"
-			(uuid "99b51591-b901-4921-9119-f208b40aad65")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
-					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")
 		(at 195.58 143.51 0)
 		(unit 1)
@@ -5629,6 +5714,84 @@
 			(project ""
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
 					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 90.17 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f61ed96a-c920-43fe-9676-79730ee69006")
+		(property "Reference" "R40"
+			(at 93.98 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 92.71 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 88.392 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 90.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-101KL"
+			(at 90.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e8e570aa-dc90-4fcd-b177-7be47c59e8b3")
+		)
+		(pin "1"
+			(uuid "4159ce86-380f-4ca9-a4f0-d3485aeb90a6")
+		)
+		(instances
+			(project "Gaus-Beschleuniger"
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/fa1d70c0-30f1-4809-884f-70139bb3b63b"
+					(reference "R40")
 					(unit 1)
 				)
 			)
