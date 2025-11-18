@@ -2173,12 +2173,6 @@
 		(uuid "acca8526-3c16-4600-9517-bc4f3eda77e7")
 	)
 	(junction
-		(at 80.01 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ad85429f-89c4-4140-ac0b-f7bb25a2dd2d")
-	)
-	(junction
 		(at 124.46 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2570,16 +2564,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 113.03) (xy 80.01 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25a4af15-d5c2-462d-bbd0-0b01c6abb7f3")
-	)
-	(wire
-		(pts
 			(xy 134.62 48.26) (xy 142.24 48.26)
 		)
 		(stroke
@@ -2797,16 +2781,6 @@
 			(type default)
 		)
 		(uuid "514db6cd-5162-4838-95f9-4c75f3c6fbd8")
-	)
-	(wire
-		(pts
-			(xy 80.01 127) (xy 80.01 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51a1ddd0-eaa9-4876-9061-d02e02d426e4")
 	)
 	(wire
 		(pts
@@ -3320,13 +3294,13 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 124.46) (xy 80.01 127)
+			(xy 81.28 127) (xy 83.82 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a6ad6aa2-dcee-4771-886f-6922198a528a")
+		(uuid "a9f861b4-23a2-4f62-818d-8fa19f0b1e30")
 	)
 	(wire
 		(pts
@@ -3590,16 +3564,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 138.43) (xy 80.01 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d61e6001-1f83-4c67-aaee-4dc3798cc9d2")
-	)
-	(wire
-		(pts
 			(xy 48.26 129.54) (xy 48.26 132.08)
 		)
 		(stroke
@@ -3670,16 +3634,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 118.11) (xy 71.12 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dae80439-6053-44ed-b476-69853d8af5ad")
-	)
-	(wire
-		(pts
 			(xy 71.12 68.58) (xy 80.01 68.58)
 		)
 		(stroke
@@ -3708,16 +3662,6 @@
 		)
 		(uuid "e495ed46-a957-43aa-9b36-753020f056f7")
 	)
-	(wire
-		(pts
-			(xy 80.01 127) (xy 83.82 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4c32129-f47f-4cad-b0dd-8ff1ee734b53")
-	)
 	(polyline
 		(pts
 			(xy 185.42 101.6) (xy 187.96 101.6)
@@ -3737,16 +3681,6 @@
 			(type default)
 		)
 		(uuid "e7298e2b-75c3-49df-847f-129b0d7c984c")
-	)
-	(wire
-		(pts
-			(xy 71.12 127) (xy 80.01 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e959780b-6917-435f-be10-dcf31ea9524b")
 	)
 	(wire
 		(pts
@@ -3878,6 +3812,16 @@
 		)
 		(uuid "fe69380f-3b9b-4917-add0-33582dbadca1")
 	)
+	(label "discharge_gate"
+		(at 74.93 68.58 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2dc16a48-6728-431a-8695-75c563da6ef3")
+	)
 	(label "HV_S2"
 		(at 109.22 106.68 0)
 		(effects
@@ -3908,7 +3852,7 @@
 		)
 		(uuid "bffa3c44-39f9-498c-9298-703c2a4fce3c")
 	)
-	(label "HV_S1"
+	(label "HV_S2"
 		(at 121.92 86.36 180)
 		(effects
 			(font
@@ -3917,6 +3861,16 @@
 			(justify right bottom)
 		)
 		(uuid "cab8cdbf-5f2b-4fa2-854d-c3bc1b59d905")
+	)
+	(label "discharge_gate"
+		(at 81.28 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d1fb7ec1-7c8d-4378-b970-0beb717c7fb8")
 	)
 	(hierarchical_label "uC_Discharge"
 		(shape input)
@@ -3939,17 +3893,6 @@
 			(justify left)
 		)
 		(uuid "0e0050f3-76cd-4a1e-aff9-e5cffbebb6bd")
-	)
-	(hierarchical_label "uC_Discharge"
-		(shape input)
-		(at 71.12 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "14e9e2fe-d1eb-4a73-9a26-04af0fe8b133")
 	)
 	(hierarchical_label "Discharge"
 		(shape input)
@@ -3994,17 +3937,6 @@
 			(justify left)
 		)
 		(uuid "770b0dae-cea1-4c63-872b-c0bc3774d0d4")
-	)
-	(hierarchical_label "Discharge"
-		(shape input)
-		(at 80.01 113.03 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8a674f29-90d4-477f-a2f2-de78c3263c37")
 	)
 	(hierarchical_label "Stage2_charge_sense"
 		(shape output)
@@ -4245,7 +4177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
+		(property "Footprint" "OptoDevice:Osram_LPT80A"
 			(at 262.89 127 0)
 			(effects
 				(font
@@ -4445,84 +4377,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 71.12 123.19 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1857f24a-fef1-4f84-97f5-289e4a12c5fa")
-		(property "Reference" "D23"
-			(at 64.77 121.92 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Schottky"
-			(at 58.42 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 71.12 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/B0540W.pdf"
-			(at 71.12 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 71.12 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "B0540W-7-F"
-			(at 71.12 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7a5ef6e0-20ee-41dd-8e65-b65d4301e3c9")
-		)
-		(pin "2"
-			(uuid "a362adb8-4fa7-4ce0-8a45-4d0f45cd89a6")
-		)
-		(instances
-			(project ""
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -4858,7 +4712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
+		(property "Footprint" "OptoDevice:Osram_LPT80A"
 			(at 223.52 80.01 0)
 			(effects
 				(font
@@ -5545,7 +5399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Horizontal_TabDown"
 			(at 165.1 127 90)
 			(effects
 				(font
@@ -5594,85 +5448,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 80.01 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5133b48c-77e9-4c1c-b0a4-e4111f7d9341")
-		(property "Reference" "R21"
-			(at 82.55 119.3799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 82.55 121.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 78.232 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 80.01 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0805FR-0710KL"
-			(at 80.01 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ade328b2-2d40-4055-9a1b-b907464e78d7")
-		)
-		(pin "1"
-			(uuid "b53fd790-57f2-41fa-a3e0-44ced6305125")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -6385,7 +6160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Horizontal_TabDown"
 			(at 165.1 68.58 90)
 			(effects
 				(font
@@ -7448,85 +7223,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 80.01 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87a9a0f8-4938-4a04-bb35-aeff309f2ae1")
-		(property "Reference" "R22"
-			(at 82.55 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 82.55 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 78.232 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 80.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0805FR-0710KL"
-			(at 80.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "25da55eb-52c8-4d52-9a95-0f1413dcb33d")
-		)
-		(pin "1"
-			(uuid "0bc67ee8-5435-4e21-8c3a-a0826b041d2b")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 271.78 83.82 90)
 		(unit 1)
@@ -8183,7 +7879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
+		(property "Footprint" "OptoDevice:Osram_LPT80A"
 			(at 223.52 127 0)
 			(effects
 				(font
@@ -8774,7 +8470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
+		(property "Footprint" "OptoDevice:Osram_LPT80A"
 			(at 262.89 80.01 0)
 			(effects
 				(font
@@ -10098,72 +9794,6 @@
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 80.01 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d20e65ee-9841-4801-aedf-c489767f5674")
-		(property "Reference" "#PWR017"
-			(at 80.01 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.01 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 80.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 80.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ce92ac33-15c3-4d99-bbc9-db670eee98d0")
-		)
-		(instances
-			(project "Gaus-Beschleuniger"
-				(path "/10afecde-cced-4b16-9a8f-ba25affe517e/05c028e1-e7a6-4a84-9923-9f1077c3de04"
-					(reference "#PWR017")
 					(unit 1)
 				)
 			)
