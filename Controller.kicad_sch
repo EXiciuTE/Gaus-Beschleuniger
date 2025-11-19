@@ -2311,6 +2311,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 78.74) (xy 154.94 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04640c08-c021-425f-aa74-03c76d74e808")
+	)
+	(wire
+		(pts
 			(xy 123.19 76.2) (xy 125.73 76.2)
 		)
 		(stroke
@@ -2431,16 +2441,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 78.74) (xy 153.67 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26748467-3a3b-48a2-931e-471a45352409")
-	)
-	(wire
-		(pts
 			(xy 254 72.39) (xy 254 85.09)
 		)
 		(stroke
@@ -2478,6 +2478,16 @@
 			(type default)
 		)
 		(uuid "3d1f9c2c-9691-4990-9d81-1a3952104ab7")
+	)
+	(wire
+		(pts
+			(xy 151.13 81.28) (xy 154.94 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dcc2adf-9a55-406e-aa17-d1fd666af6d2")
 	)
 	(wire
 		(pts
@@ -2961,16 +2971,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 81.28) (xy 153.67 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5dfdbcf-2f85-4ca8-81d8-a2128ed08ee8")
-	)
-	(wire
-		(pts
 			(xy 167.64 143.51) (xy 167.64 140.97)
 		)
 		(stroke
@@ -3286,7 +3286,7 @@
 	)
 	(hierarchical_label "Stage1_charge_sense"
 		(shape input)
-		(at 153.67 78.74 0)
+		(at 154.94 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3308,7 +3308,7 @@
 	)
 	(hierarchical_label "Stage2_charge_sense"
 		(shape input)
-		(at 153.67 81.28 0)
+		(at 154.94 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
