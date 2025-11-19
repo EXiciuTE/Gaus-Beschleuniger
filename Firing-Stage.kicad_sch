@@ -3852,6 +3852,16 @@
 		)
 		(uuid "bffa3c44-39f9-498c-9298-703c2a4fce3c")
 	)
+	(label "S2_D"
+		(at 165.1 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3d26861-acd3-4d8b-8e04-b33b24407967")
+	)
 	(label "HV_S2"
 		(at 121.92 86.36 180)
 		(effects
@@ -3871,6 +3881,16 @@
 			(justify right bottom)
 		)
 		(uuid "d1fb7ec1-7c8d-4378-b970-0beb717c7fb8")
+	)
+	(label "S1_D"
+		(at 165.1 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db5be3b6-5511-4966-9cc0-12cf6d16a7f7")
 	)
 	(hierarchical_label "uC_Discharge"
 		(shape input)
