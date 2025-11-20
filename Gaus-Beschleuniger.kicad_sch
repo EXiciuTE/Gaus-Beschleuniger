@@ -195,6 +195,229 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:Battery"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "BT"
+				(at 2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Battery"
+				(at 2.54 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 1.524 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 1.524 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Multiple-cell battery"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "batt voltage-source cell"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Battery_0_1"
+				(rectangle
+					(start -2.286 1.778)
+					(end 2.286 1.524)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -2.286 -1.27)
+					(end 2.286 -1.524)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.524 1.016)
+					(end 1.524 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.524 -2.032)
+					(end 1.524 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.778) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.508) (xy 0 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.016) (xy 0 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 3.048) (xy 1.778 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 3.556) (xy 1.27 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Battery_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:LED"
 			(pin_numbers
 				(hide yes)
@@ -1181,7 +1404,7 @@
 	)
 	(text "Master Switch"
 		(exclude_from_sim no)
-		(at 62.23 35.56 0)
+		(at 85.09 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1200,10 +1423,22 @@
 		(uuid "be553b85-c0c9-4da8-857f-736604d89a27")
 	)
 	(junction
+		(at 54.61 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ecfccd2-7f28-4af8-a49c-f39b0395fc5d")
+	)
+	(junction
 		(at 110.49 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a8b6153-3a6a-4e85-8364-2cdbe0b67b68")
+	)
+	(junction
+		(at 54.61 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67dbbb64-1a71-449e-81d3-773169241490")
 	)
 	(junction
 		(at 101.6 57.15)
@@ -1212,13 +1447,13 @@
 		(uuid "8c23d38c-b07c-40c8-a487-7775839dd442")
 	)
 	(junction
-		(at 44.45 24.13)
+		(at 67.31 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ada3caf-340e-4f66-9cb9-6af314828b4b")
 	)
 	(junction
-		(at 44.45 34.29)
+		(at 67.31 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2f01b8a-701b-4c3f-8252-9d267bfe4cf2")
@@ -1230,7 +1465,7 @@
 		(uuid "e7bc6ec4-fc9f-4e43-b0c2-b9789a9770e2")
 	)
 	(no_connect
-		(at 57.15 29.21)
+		(at 80.01 33.02)
 		(uuid "011af42c-81e0-498a-af60-b6ac9aaa0fe3")
 	)
 	(wire
@@ -1265,7 +1500,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 30.48) (xy 39.37 34.29)
+			(xy 48.26 34.29) (xy 48.26 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1285,7 +1520,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 27.94) (xy 38.1 27.94)
+			(xy 48.26 31.75) (xy 46.99 31.75)
 		)
 		(stroke
 			(width 0)
@@ -1325,6 +1560,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 38.1) (xy 67.31 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20053a10-4237-4d95-ade6-33ec64696a15")
+	)
+	(wire
+		(pts
 			(xy 110.49 81.28) (xy 110.49 82.55)
 		)
 		(stroke
@@ -1335,7 +1580,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 24.13) (xy 44.45 24.13)
+			(xy 48.26 27.94) (xy 54.61 27.94)
 		)
 		(stroke
 			(width 0)
@@ -1352,6 +1597,16 @@
 			(type default)
 		)
 		(uuid "27e3c859-8b5e-4f0a-9e9f-d486981b0e7c")
+	)
+	(wire
+		(pts
+			(xy 54.61 27.94) (xy 67.31 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34320893-40b8-49ac-a044-f2e1e69be31f")
 	)
 	(wire
 		(pts
@@ -1385,7 +1640,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 33.02) (xy 44.45 34.29)
+			(xy 67.31 36.83) (xy 67.31 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1395,7 +1650,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 22.86) (xy 88.9 25.4)
+			(xy 106.68 22.86) (xy 106.68 25.4)
 		)
 		(stroke
 			(width 0)
@@ -1425,7 +1680,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 26.67) (xy 69.85 26.67)
+			(xy 90.17 30.48) (xy 92.71 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1435,7 +1690,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 26.67) (xy 69.85 25.4)
+			(xy 92.71 30.48) (xy 92.71 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1485,7 +1740,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 34.29) (xy 44.45 35.56)
+			(xy 67.31 38.1) (xy 67.31 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1505,7 +1760,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 24.13) (xy 44.45 25.4)
+			(xy 67.31 27.94) (xy 67.31 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1515,7 +1770,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 30.48) (xy 38.1 30.48)
+			(xy 48.26 34.29) (xy 46.99 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1645,7 +1900,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 24.13) (xy 39.37 27.94)
+			(xy 48.26 27.94) (xy 48.26 31.75)
 		)
 		(stroke
 			(width 0)
@@ -1665,7 +1920,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 22.86) (xy 95.25 25.4)
+			(xy 113.03 22.86) (xy 113.03 25.4)
 		)
 		(stroke
 			(width 0)
@@ -1675,7 +1930,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 34.29) (xy 44.45 34.29)
+			(xy 48.26 38.1) (xy 54.61 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1685,7 +1940,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 24.13) (xy 57.15 24.13)
+			(xy 67.31 27.94) (xy 80.01 27.94)
 		)
 		(stroke
 			(width 0)
@@ -1705,7 +1960,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 69.85 25.4 0)
+		(at 92.71 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1714,7 +1969,7 @@
 		(fields_autoplaced yes)
 		(uuid "02154c4e-d87a-4dee-b938-052cf11017b5")
 		(property "Reference" "#PWR02"
-			(at 69.85 29.21 0)
+			(at 92.71 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1723,7 +1978,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 69.85 20.32 0)
+			(at 92.71 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1731,7 +1986,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 25.4 0)
+			(at 92.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1740,7 +1995,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 25.4 0)
+			(at 92.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1749,7 +2004,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 69.85 25.4 0)
+			(at 92.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1850,7 +2105,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 44.45 35.56 0)
+		(at 67.31 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1859,7 +2114,7 @@
 		(fields_autoplaced yes)
 		(uuid "3bf5afb1-d27f-4b35-a02a-471b1876f875")
 		(property "Reference" "#PWR01"
-			(at 44.45 41.91 0)
+			(at 67.31 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1868,7 +2123,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 44.45 40.64 0)
+			(at 67.31 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1876,7 +2131,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 35.56 0)
+			(at 67.31 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1885,7 +2140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 35.56 0)
+			(at 67.31 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1894,7 +2149,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 35.56 0)
+			(at 67.31 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +2237,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 33.02 30.48 180)
+		(at 41.91 34.29 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1990,7 +2245,7 @@
 		(dnp no)
 		(uuid "7353675c-d103-4ddd-b35b-5d7a16013552")
 		(property "Reference" "J7"
-			(at 33.02 21.59 0)
+			(at 41.91 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1998,7 +2253,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 26.162 24.13 0)
+			(at 35.052 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2006,7 +2261,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 33.02 30.48 0)
+			(at 41.91 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2015,7 +2270,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 30.48 0)
+			(at 41.91 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2024,7 +2279,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 33.02 30.48 0)
+			(at 41.91 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2042,6 +2297,76 @@
 			(project ""
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Battery")
+		(at 54.61 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "843263df-5a4f-4a32-9ae5-bdda2e5a0435")
+		(property "Reference" "BT1"
+			(at 58.42 31.1784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Battery"
+			(at 58.42 33.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+			(at 54.61 31.496 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 54.61 31.496 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multiple-cell battery"
+			(at 54.61 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c707293a-a270-4179-821d-ec83e8afa92e")
+		)
+		(pin "1"
+			(uuid "fcb10b95-3724-498d-9a27-f10cefbed5ed")
+		)
+		(instances
+			(project ""
+				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
+					(reference "BT1")
 					(unit 1)
 				)
 			)
@@ -2200,7 +2525,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SM6T36A")
-		(at 44.45 29.21 270)
+		(at 67.31 33.02 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2209,7 +2534,7 @@
 		(fields_autoplaced yes)
 		(uuid "99c4660b-f244-44e9-a191-8be169343c31")
 		(property "Reference" "D1"
-			(at 46.99 27.9399 90)
+			(at 69.85 31.7499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2218,7 +2543,7 @@
 			)
 		)
 		(property "Value" "SM6T36A"
-			(at 46.99 30.4799 90)
+			(at 69.85 34.2899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2227,7 +2552,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMB"
-			(at 39.37 29.21 0)
+			(at 62.23 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2236,7 +2561,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf"
-			(at 44.45 27.94 0)
+			(at 67.31 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2245,7 +2570,7 @@
 			)
 		)
 		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 36Vrwm, DO-214AA"
-			(at 44.45 29.21 0)
+			(at 67.31 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2254,7 +2579,7 @@
 			)
 		)
 		(property "MPN" "SM6T36A"
-			(at 44.45 29.21 90)
+			(at 67.31 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2425,7 +2750,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 88.9 22.86 0)
+		(at 106.68 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2434,7 +2759,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf51342f-8761-4b06-b1dd-b3e5974fcc97")
 		(property "Reference" "#PWR03"
-			(at 88.9 26.67 0)
+			(at 106.68 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2443,7 +2768,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 88.9 17.78 0)
+			(at 106.68 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2451,7 +2776,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 22.86 0)
+			(at 106.68 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 22.86 0)
+			(at 106.68 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2469,7 +2794,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 88.9 22.86 0)
+			(at 106.68 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2491,7 +2816,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 95.25 22.86 0)
+		(at 113.03 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2500,7 +2825,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1b481a2-56f3-4de0-9c9f-916cab66f2aa")
 		(property "Reference" "#PWR020"
-			(at 95.25 26.67 0)
+			(at 113.03 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2509,7 +2834,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 95.25 17.78 0)
+			(at 113.03 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2517,7 +2842,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 22.86 0)
+			(at 113.03 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2526,7 +2851,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 22.86 0)
+			(at 113.03 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2535,7 +2860,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 95.25 22.86 0)
+			(at 113.03 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2636,7 +2961,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 62.23 26.67 0)
+		(at 85.09 30.48 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2645,7 +2970,7 @@
 		(dnp no)
 		(uuid "eb9cca70-753b-469e-85eb-fb7910425e27")
 		(property "Reference" "SW2"
-			(at 62.23 17.78 0)
+			(at 85.09 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2653,7 +2978,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 62.23 20.32 0)
+			(at 85.09 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2661,7 +2986,7 @@
 			)
 		)
 		(property "Footprint" "00_Library:Toggle_Switch_SPDT_PCB"
-			(at 62.23 26.67 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2670,7 +2995,7 @@
 			)
 		)
 		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/203458/sw-t2-2x-a-a2-m1-data-sheet.pdf"
-			(at 62.23 34.29 0)
+			(at 85.09 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,7 +3004,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 62.23 26.67 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2688,7 +3013,7 @@
 			)
 		)
 		(property "MPN" "SW-T2-2E-A-A2-M1"
-			(at 62.23 26.67 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2951,7 +3276,7 @@
 		)
 	)
 	(sheet
-		(at 80.01 25.4)
+		(at 97.79 25.4)
 		(size 20.32 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2967,7 +3292,7 @@
 		)
 		(uuid "2ccd1446-b669-433d-a90b-77e01738eddf")
 		(property "Sheetname" "5V Buck"
-			(at 80.01 24.6884 0)
+			(at 97.79 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2976,7 +3301,7 @@
 			)
 		)
 		(property "Sheetfile" "5V_Buck.kicad_sch"
-			(at 80.01 41.2246 0)
+			(at 97.79 41.2246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2985,7 +3310,7 @@
 			)
 		)
 		(pin "Vout" passive
-			(at 95.25 25.4 90)
+			(at 113.03 25.4 90)
 			(uuid "a764c47e-c201-41da-b606-1d859721f450")
 			(effects
 				(font
@@ -2995,7 +3320,7 @@
 			)
 		)
 		(pin "Vin" passive
-			(at 88.9 25.4 90)
+			(at 106.68 25.4 90)
 			(uuid "9276985f-5d76-485f-aa11-1e659f85d6d8")
 			(effects
 				(font
