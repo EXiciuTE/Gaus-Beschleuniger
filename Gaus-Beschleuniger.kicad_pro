@@ -70,10 +70,6 @@
         [
           "lib_footprint_mismatch|57500000|110000000|664fba98-d680-4471-a864-30505c33346c|00000000-0000-0000-0000-000000000000",
           ""
-        ],
-        [
-          "starved_thermal|64137500|142500000|f43023b0-4ffb-4bb1-b55b-06a0272015d7|084de155-d3a9-486d-8cd1-4f1b1a069aa7|F.Cu",
-          ""
         ]
       ],
       "meta": {
@@ -556,7 +552,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "GBR/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
