@@ -4088,6 +4088,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 246.38 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "98bca9ee-5ad6-442e-8935-95ccbe63e464")
 		)
@@ -4225,6 +4234,15 @@
 			)
 		)
 		(property "MPN" "PT908-7B-F"
+			(at 257.81 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
 			(at 257.81 129.54 0)
 			(effects
 				(font
@@ -4387,6 +4405,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 246.38 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ca5aba5a-9950-4f8c-8da4-830b24646ae7")
 		)
@@ -4532,6 +4559,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 48.26 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "58f9c9c7-fffa-46e2-8b3a-f632184c856d")
 		)
@@ -4603,6 +4639,15 @@
 		)
 		(property "MPN" "B0540W-7-F"
 			(at 71.12 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C154764"
+			(at 71.12 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4689,6 +4734,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C2642472"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f8fc18b7-d7e7-42e7-996e-e01edfafeb96")
 		)
@@ -4760,6 +4814,15 @@
 			)
 		)
 		(property "MPN" "PT908-7B-F"
+			(at 218.44 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
 			(at 218.44 82.55 0)
 			(effects
 				(font
@@ -4979,6 +5042,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 80.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82211ac1-1ac6-42fc-86d6-dd0dcbd628bf")
 		)
@@ -5050,6 +5122,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-101KL"
+			(at 207.01 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C5842544"
 			(at 207.01 66.04 0)
 			(effects
 				(font
@@ -5153,6 +5234,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C16378"
+			(at 41.91 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d14d5e47-d236-4023-b7f3-918438f9d686")
 		)
@@ -5232,6 +5322,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "449433d9-056d-4912-b996-67d65b6a04f6")
 		)
@@ -5302,6 +5401,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 142.24 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 142.24 120.65 0)
 			(effects
 				(font
@@ -5455,6 +5563,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C335786"
+			(at 165.1 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e2d92265-dc36-415b-8b1b-c2b1114c32c1")
 		)
@@ -5537,6 +5654,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "217b6d5b-652b-4a05-9ed4-b988af8dc9f5")
 		)
@@ -5599,6 +5725,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 132.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 132.08 93.98 0)
 			(effects
 				(font
@@ -5686,6 +5821,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27dbba3d-120d-4c7f-9823-635fb88dda10")
 		)
@@ -5757,6 +5901,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 220.98 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 220.98 113.03 0)
 			(effects
 				(font
@@ -5844,6 +5997,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C2642472"
+			(at 48.26 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac9651a5-c92c-4a63-9cce-1e982b849e1f")
 		)
@@ -5915,6 +6077,15 @@
 			)
 		)
 		(property "MPN" "RNV14FAL470K"
+			(at 48.26 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C2642472"
 			(at 48.26 115.57 0)
 			(effects
 				(font
@@ -6134,6 +6305,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ba1cd43-64a8-44b8-92d6-5077fd2feeb5")
 		)
@@ -6208,6 +6388,15 @@
 			)
 		)
 		(property "MPN" "70TPS12"
+			(at 165.1 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C335786"
 			(at 165.1 68.58 0)
 			(effects
 				(font
@@ -6364,6 +6553,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 88.9 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f80d8d67-a815-44bd-a5e6-2f022b2e3504")
 		)
@@ -6429,6 +6627,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 132.08 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 132.08 86.36 0)
 			(effects
 				(font
@@ -6639,6 +6846,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 127 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 127 62.23 0)
 			(effects
 				(font
@@ -6924,6 +7140,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 220.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92e40402-e353-420f-8a29-58049877af6c")
 		)
@@ -7003,6 +7228,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 207.01 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5ba482da-b40a-4881-b901-9ed0d901b8b1")
 		)
@@ -7065,6 +7299,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 132.08 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 132.08 27.94 0)
 			(effects
 				(font
@@ -7227,6 +7470,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 207.01 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac8aa4e2-004f-4cc2-9d4d-52249fcf9f22")
 		)
@@ -7315,6 +7567,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 271.78 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68396364-6b10-46db-a84f-80340fc09e38")
 		)
@@ -7394,6 +7655,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 260.35 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4b32212d-f44b-4391-9b9c-fdf03a62be7a")
 		)
@@ -7464,6 +7734,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 134.62 62.23 0)
 			(effects
 				(font
@@ -7567,6 +7846,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C16378"
+			(at 41.91 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c65ace1b-4db6-4f23-809f-6588a84a2255")
 		)
@@ -7637,6 +7925,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 127 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 127 120.65 0)
 			(effects
 				(font
@@ -7856,6 +8153,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 154.94 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74f5fefc-cba0-49fc-bb3f-6c562b3beb69")
 		)
@@ -7927,6 +8233,15 @@
 			)
 		)
 		(property "MPN" "PT908-7B-F"
+			(at 218.44 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
 			(at 218.44 129.54 0)
 			(effects
 				(font
@@ -8023,6 +8338,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 271.78 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1edc8af7-e0ed-48d1-a6c3-fb9cafbcda25")
 		)
@@ -8093,6 +8417,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 119.38 62.23 0)
 			(effects
 				(font
@@ -8303,6 +8636,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 132.08 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fce4a5d6-0f1b-468c-94a1-075557467bca")
 		)
@@ -8373,6 +8715,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 134.62 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 134.62 120.65 0)
 			(effects
 				(font
@@ -8526,6 +8877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C17179478"
+			(at 257.81 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb038c32-d3c8-49f3-850a-f34610cc1d32")
 		)
@@ -8588,6 +8948,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 170.18 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 170.18 48.26 0)
 			(effects
 				(font
@@ -8750,6 +9119,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 232.41 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05c063eb-44b2-42d5-9599-efbaaaedf8bc")
 		)
@@ -8830,6 +9208,15 @@
 			)
 		)
 		(property "MPN" "151051RS11000"
+			(at 232.41 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 232.41 83.82 90)
 			(effects
 				(font
@@ -8992,6 +9379,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 207.01 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c70584c-8098-4d7d-91e1-36f448ff3e17")
 		)
@@ -9071,6 +9467,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 260.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2057b177-8941-437d-95f1-1bc370439493")
 		)
@@ -9142,6 +9547,15 @@
 			)
 		)
 		(property "MPN" "RNV14FAL470K"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C2642472"
 			(at 48.26 125.73 0)
 			(effects
 				(font
@@ -9238,6 +9652,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 246.38 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2873147c-37f0-43dd-b1e3-dd31bf8b1e30")
 		)
@@ -9272,7 +9695,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k 5W SQP10AJB-2K"
+		(property "Value" "2k"
 			(at 93.98 116.8399 0)
 			(effects
 				(font
@@ -9299,7 +9722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5W cement resistor"
 			(at 91.44 115.57 0)
 			(effects
 				(font
@@ -9309,6 +9732,15 @@
 			)
 		)
 		(property "MPN" "SQP10AJB-2K"
+			(at 91.44 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C20166277"
 			(at 91.44 115.57 0)
 			(effects
 				(font
@@ -9593,6 +10025,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 142.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97bddf42-572d-4c9a-9fcc-ec84163549be")
 		)
@@ -9664,6 +10105,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 48.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 48.26 80.01 0)
 			(effects
 				(font
@@ -9874,6 +10324,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 170.18 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c509c46-3f8d-4cae-8bcf-65faf12ea35a")
 		)
@@ -9944,6 +10403,15 @@
 			)
 		)
 		(property "MPN" "ESMR401VSN102MA50S"
+			(at 119.38 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
 			(at 119.38 120.65 0)
 			(effects
 				(font
@@ -10118,7 +10586,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k 5W SQP10AJB-2K"
+		(property "Value" "2k"
 			(at 93.98 58.4199 0)
 			(effects
 				(font
@@ -10145,7 +10613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5W cement resistor"
 			(at 91.44 57.15 0)
 			(effects
 				(font
@@ -10155,6 +10623,15 @@
 			)
 		)
 		(property "MPN" "SQP10AJB-2K"
+			(at 91.44 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C20166277"
 			(at 91.44 57.15 0)
 			(effects
 				(font

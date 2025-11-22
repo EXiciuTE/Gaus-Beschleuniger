@@ -2182,6 +2182,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 20.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
@@ -2247,6 +2256,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 101.6 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 101.6 77.47 0)
 			(effects
 				(font
@@ -2457,6 +2475,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 39.37 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
@@ -2521,6 +2548,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 39.37 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
@@ -2538,7 +2574,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7353675c-d103-4ddd-b35b-5d7a16013552")
 		(property "Reference" "J7"
 			(at 41.91 29.21 0)
@@ -2575,6 +2611,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 41.91 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 41.91 31.75 0)
 			(effects
 				(font
@@ -2653,6 +2698,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 39.37 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
@@ -2709,6 +2763,15 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
+			(at 54.61 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C5334533"
 			(at 54.61 33.02 0)
 			(effects
 				(font
@@ -2779,6 +2842,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 20.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 20.32 55.88 0)
 			(effects
 				(font
@@ -2932,6 +3004,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 110.49 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97fa5cbc-49bb-4573-867c-131b17e720e8")
 		)
@@ -3011,6 +3092,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C7436537"
+			(at 67.31 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bada89a4-0147-41f2-ac0c-da854f257907")
 		)
@@ -3080,6 +3170,15 @@
 			)
 		)
 		(property "MPN" "SW-T2-2E-A-A2-M1"
+			(at 93.98 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C4950128"
 			(at 93.98 59.69 0)
 			(effects
 				(font
@@ -3227,6 +3326,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 39.37 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Gaus-Beschleuniger"
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
@@ -3291,6 +3399,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 20.32 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/10afecde-cced-4b16-9a8f-ba25affe517e"
@@ -3347,6 +3464,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 20.32 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 20.32 66.04 0)
 			(effects
 				(font
@@ -3560,6 +3686,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 110.49 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "205d86b9-a064-42d7-9742-a8d0231f0dbb")
 		)
@@ -3629,6 +3764,15 @@
 			)
 		)
 		(property "MPN" "SW-T2-2E-A-A2-M1"
+			(at 85.09 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C4950128"
 			(at 85.09 30.48 0)
 			(effects
 				(font
@@ -3718,6 +3862,15 @@
 		)
 		(property "MPN" "151051RS11000"
 			(at 101.6 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 101.6 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)

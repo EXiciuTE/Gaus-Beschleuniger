@@ -1,0 +1,5 @@
+JLCPCB PCBA process:
+BOM: Gaus-Beschleuniger.csv
+Pick'n'Place: Fabrication_tool_positions.csv
+
+NICHT ERNEUT SPEICHERN!!!

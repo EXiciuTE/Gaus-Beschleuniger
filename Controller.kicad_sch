@@ -3425,6 +3425,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 90.17 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64c4bfd1-bf75-4b49-be40-a4b04a19c36d")
 		)
@@ -3493,6 +3502,15 @@
 			)
 		)
 		(property "MPN" "B3F-1000"
+			(at 261.62 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C93157"
 			(at 261.62 67.31 0)
 			(effects
 				(font
@@ -3646,6 +3664,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 257.81 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0caac984-11e7-4c0a-9b46-32d85f5cc826")
 		)
@@ -3668,7 +3695,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3a57abc5-f3d2-4d32-8bee-f7d1351c6bc4")
 		(property "Reference" "J10"
 			(at 222.25 113.03 90)
@@ -3713,6 +3740,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 228.6 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "8a23e224-62bc-42e7-839e-3e836b3c2213")
 		)
@@ -3741,7 +3777,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3d61e7ac-cb44-4494-9ec3-de5afa0fdd09")
 		(property "Reference" "A1"
@@ -3782,6 +3818,15 @@
 			)
 		)
 		(property "Description" "Arduino Nano v3.x"
+			(at 138.43 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 138.43 78.74 0)
 			(effects
 				(font
@@ -4150,6 +4195,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 180.34 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c532274-cc32-45c1-80fe-9a30fc22cda4")
 		)
@@ -4229,6 +4283,15 @@
 			)
 		)
 		(property "MPN" "151051RS11000"
+			(at 266.7 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 266.7 123.19 90)
 			(effects
 				(font
@@ -4324,6 +4387,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 266.7 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a2781d4-0ef5-45e9-9928-ebf95bcd9d52")
 		)
@@ -4395,6 +4467,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 257.81 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 257.81 123.19 0)
 			(effects
 				(font
@@ -4482,6 +4563,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 90.17 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fb9ce31c-7cc9-4dc6-8965-4b4f60dfcb47")
 		)
@@ -4504,7 +4594,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "959e2928-b786-468b-8794-13e271fe8794")
 		(property "Reference" "J11"
 			(at 222.25 149.86 90)
@@ -4544,6 +4634,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 228.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 228.6 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4633,6 +4732,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 257.81 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "767e6713-fd3f-4ff9-a9ad-bc84c33342cb")
 		)
@@ -4703,6 +4811,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 173.99 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 173.99 140.97 90)
 			(effects
 				(font
@@ -4919,6 +5036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C93157"
+			(at 261.62 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "44e5ed94-abaf-437e-bfd0-232052f3af7c")
 		)
@@ -5056,6 +5182,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 153.67 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 153.67 58.42 0)
 			(effects
 				(font
@@ -5415,6 +5550,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 266.7 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56169daa-fb10-40d5-b9c6-9e343139819b")
 		)
@@ -5557,6 +5701,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C93157"
+			(at 256.54 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3255ae77-2870-4c04-bd79-5ab987a96e54")
 		)
@@ -5579,7 +5732,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ec16d6c0-12d0-428e-9ec3-ca6162e298a3")
 		(property "Reference" "J13"
 			(at 222.25 76.2 90)
@@ -5626,6 +5779,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 228.6 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e9e19e68-80e6-4515-933e-879e1d260ce6")
 		)
@@ -5651,7 +5813,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f61603fc-0778-4b36-8d68-d7506949e9f6")
 		(property "Reference" "J12"
 			(at 196.85 143.5099 0)
@@ -5690,6 +5852,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 195.58 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 195.58 143.51 0)
 			(effects
 				(font
@@ -5782,6 +5953,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 90.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e8e570aa-dc90-4fcd-b177-7be47c59e8b3")
 		)
@@ -5852,6 +6032,15 @@
 			)
 		)
 		(property "MPN" "35ZLH100MEFC6.3X11"
+			(at 163.83 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C109392"
 			(at 163.83 53.34 0)
 			(effects
 				(font

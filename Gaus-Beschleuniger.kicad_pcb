@@ -253,6 +253,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a4252cd-9758-4da1-a5df-d57e522f712b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b7ab75ca-20f4-4090-b0f6-db312fc03c4d")
 		(sheetname "/")
@@ -358,6 +371,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95aaa2f5-77ba-44fb-92e5-2486960f8504")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C232444"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b93dbb2c-004e-452a-85ad-b0d9fed0335a")
 			(effects
 				(font
 					(size 1 1)
@@ -632,6 +658,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "10095bc9-9b6b-46bd-b126-e8c013277c4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5f306c3-c2b2-4513-989a-8a9223e3acf5")
 			(effects
 				(font
 					(size 1 1)
@@ -961,7 +1000,7 @@
 				)
 			)
 		)
-		(property "Value" "1000V"
+		(property "Value" "US2M_HF"
 			(at 0 3 90)
 			(layer "F.Fab")
 			(uuid "aca1b4c7-bd2e-4661-91f2-8d8627ce08e0")
@@ -1030,6 +1069,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0851ca9f-114d-4df6-be60-3e052f2c9a87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C17247425"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd0b89e6-49fd-4b0a-816c-757ad328c75c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "1000V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6bc4801-d73b-4f4c-85f9-96775601c2d1")
 			(effects
 				(font
 					(size 1 1)
@@ -1321,6 +1386,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C7023635"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "934ac4b2-55e7-4c7c-be5c-6bff2412f9a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/5f93e194-0568-4b1e-93d5-60644d99877c")
 		(sheetname "/Cap-Charger/")
@@ -1546,6 +1624,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8021f8a2-147e-4561-a333-de3cc475777c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/4b3ae9bf-886b-4864-bede-39adb5bfab86")
 		(sheetname "/Cap-Charger/")
@@ -1758,6 +1849,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C2642472"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f81acc87-46db-475b-bbcb-f75c3ace485a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/5579fd34-a90c-4742-aac4-bf87024186e0")
 		(sheetname "/Firing-Stage/")
@@ -1938,6 +2042,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0a51aa86-2156-43c4-b05e-66d387bbc56c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3c5e790-afb2-46eb-815f-ca34c7a5442a")
 			(effects
 				(font
 					(size 1 1)
@@ -2157,6 +2274,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54e4ffba-7939-403b-86f6-74b8d1366d75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/7a26f749-69c3-48e7-9c57-27d176460f3f")
 		(sheetname "/Firing-Stage/")
@@ -2362,6 +2492,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a2ca4858-4159-4fc3-8c04-c6a72da625e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C109392"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17cd910c-504e-4569-be9a-4a25c5f7e0eb")
 			(effects
 				(font
 					(size 1 1)
@@ -3897,6 +4040,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41ee3571-4ee2-4604-afcd-395e6e6e063d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c565fa0f-83ad-41bb-b83f-1c6e77da78c9")
 		(sheetname "/")
@@ -4096,6 +4252,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4419ea78-e5c3-4204-a8ad-df1f24515360")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b8ad4495-77e7-4b03-9650-ae3598e93cb2")
 		(sheetname "/")
@@ -4214,6 +4383,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "20bdb7c5-52f9-440c-955f-abadc337fa56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C28233"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19010943-34be-4872-85d7-066e88fed3d8")
 			(effects
 				(font
 					(size 1 1)
@@ -4454,6 +4636,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f938c955-863a-470c-b55a-a2f4fad17bbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C16378"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c9c5748-9db5-4c1d-b0b4-8ed24bf8a08b")
 			(effects
 				(font
 					(size 1 1)
@@ -4758,6 +4953,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C441864"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe0bd25d-0f4f-424a-9b75-728201c09a9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/e0584470-67f1-46d7-94c7-0b3d7d03c73c")
 		(sheetname "/5V Buck/")
@@ -4970,6 +5178,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53668167-b7e5-4791-bf52-c5e34a5a2613")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/f61ed96a-c920-43fe-9676-79730ee69006")
 		(sheetname "/Controller/")
@@ -5134,7 +5355,7 @@
 				)
 			)
 		)
-		(property "Value" "2k 5W SQP10AJB-2K"
+		(property "Value" "2k"
 			(at 30.48 7.37 0)
 			(layer "F.Fab")
 			(uuid "da3215c6-245c-4697-90e1-c4eeb0a0685c")
@@ -5157,7 +5378,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5W cement resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5175,6 +5396,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef6e4e41-de61-4b80-ba9b-03343a9eacb4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C20166277"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67b1cddd-c646-4962-aa07-5b8e375261ea")
 			(effects
 				(font
 					(size 1 1)
@@ -5352,6 +5586,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0dfdb9d-2cdc-4285-975a-47c8e1fd7597")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5568,6 +5815,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd3dcf4c-c9a9-4b0b-b403-7d03ee89de52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C165742"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e406753-bd49-4c6a-a757-2a7ceb3b612c")
 			(effects
 				(font
 					(size 1 1)
@@ -5800,6 +6060,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "13dc14ee-ec3b-459e-a194-b99a0ff8e587")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/352888ce-0ebc-49ef-97f9-8958cf22cda6")
 		(sheetname "/Cap-Charger/")
@@ -6018,6 +6291,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a1b59103-8d3a-4414-b3ea-d03e6ab090f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96b7da74-d570-40e5-a73c-5b677b17b3d2")
 			(effects
 				(font
 					(size 1 1)
@@ -6281,6 +6567,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C4210186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c77aea2-fa73-41fd-860b-814630a51d48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/3f45b85b-cc97-4700-af21-d3528ce679aa")
 		(sheetname "/Cap-Charger/")
@@ -6493,6 +6792,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C2642472"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2ae01c3-81af-4a99-85d2-7177a9558ef1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/56b16a2b-2d08-4157-b6ac-2cc918840d26")
 		(sheetname "/Firing-Stage/")
@@ -6675,6 +6987,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e59fd8f-c676-46b3-8423-7c7189290e6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C93157"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5be30a2-14de-42a7-af30-515d0dcb6f1b")
 			(effects
 				(font
 					(size 1 1)
@@ -6951,6 +7276,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50ce4c2d-1190-48e0-8174-b0477f76a2d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/8c471ba3-5d11-42f2-96d9-9626b4d62657")
 		(sheetname "/Cap-Charger/")
@@ -7163,6 +7501,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C2642472"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64d9303d-218e-4a2e-85c2-80dcb65eb9c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/c6767504-3997-46b3-97eb-30ec428f7bb0")
 		(sheetname "/Firing-Stage/")
@@ -7356,6 +7707,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eaa4fbf3-5e39-4ae1-958e-3e588a75e8f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C13832"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f5f48bd-e80b-4dad-9790-5b7256ee0c6d")
 			(effects
 				(font
 					(size 1 1)
@@ -7568,6 +7932,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6def826d-8b46-4050-a023-8e8f4a23a905")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e890787f-5e43-4661-9085-1a6aa22d0ef7")
 			(effects
 				(font
 					(size 1 1)
@@ -7808,6 +8185,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c65cf78-5238-4f39-9bd4-8bc275ed8565")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C16378"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cebf0649-05d5-4db9-8c49-e1d15755ea8e")
 			(effects
 				(font
 					(size 1 1)
@@ -8086,6 +8476,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53b0d534-c5c4-42e9-9c5e-382363ee98d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/6233826c-ae04-4162-b41f-99933a824a7e")
 		(sheetname "/")
@@ -8204,6 +8607,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e076b93-a359-4649-96cf-0a5e95d31fe2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "174f821a-a222-4306-9544-2964a2e0e91a")
 			(effects
 				(font
 					(size 1 1)
@@ -8442,6 +8858,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddc47547-4e9c-4816-87e6-04bca0114ef8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/cd2e47c0-9be1-4912-8fa7-e22a1674a512")
 		(sheetname "/Firing-Stage/")
@@ -8647,6 +9076,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d36ebd2c-0933-4c5f-a249-3bd0b239984d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4348ca0-9674-4cf8-a27b-974744da8415")
 			(effects
 				(font
 					(size 1 1)
@@ -8866,6 +9308,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C2642472"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f17a3dc-ceb9-458f-8ffd-9019a3b3b912")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/29ed574c-16ac-4c10-aa2c-4e4cceb32def")
 		(sheetname "/Firing-Stage/")
@@ -9040,12 +9495,25 @@
 				)
 			)
 		)
-		(property "MPN" "LMR50410XFDBVR"
+		(property "MPN" " LMR50410XDBVR"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "49d405f5-8686-4ac6-aac6-a488f8f4ec67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C2841056"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8399c24b-ec61-4b2b-8158-540e6416c187")
 			(effects
 				(font
 					(size 1 1)
@@ -9429,6 +9897,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "914696f0-3779-4f34-9570-0d3e8e6a4bf2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/9de36a2a-2895-4b51-acb0-78d03f596176")
 		(sheetname "/Controller/")
@@ -9641,6 +10122,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "efeb4293-7a29-48a4-a3bd-8b075d0fe035")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/bcaa8715-109b-4406-8a81-c9bb7667da51")
 		(sheetname "/Firing-Stage/")
@@ -9846,6 +10340,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30e5f870-adf1-4e88-9975-ffeb0764573e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C109392"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "719a7555-4564-4435-ab7c-62611b838100")
 			(effects
 				(font
 					(size 1 1)
@@ -11383,6 +11890,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C154764"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec138c69-3976-4703-99b3-6faac1575a7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/29b0a16a-1e47-472a-96a1-4e1a69b32505")
 		(sheetname "/Firing-Stage/")
@@ -11677,6 +12197,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C228640"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93821912-6772-47e7-a384-6f2b8b2e018a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/74bd9a90-9264-48dd-9ecb-4be6b6c7c39c")
 		(sheetname "/5V Buck/")
@@ -11889,6 +12422,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C137719"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60958b23-5cdd-4b7a-9868-2129b9907d11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/fa31b765-3027-4684-ab42-508b06315e65")
 		(sheetname "/Cap-Charger/")
@@ -12084,6 +12630,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "061d3fd8-4685-4aaf-8e67-a29ebc09694c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12356,6 +12915,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a4712ae-8c7a-43fb-b39b-56d13c7dc1ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/5c876e5b-63a3-40d0-bc91-b2cebd994218")
 		(sheetname "/Firing-Stage/")
 		(sheetfile "Firing-Stage.kicad_sch")
@@ -12615,6 +13187,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2890df88-0dcf-4fdc-ad03-cf703216e879")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C4950128"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8e2138c-e2b7-4554-82d2-11d0a983b9a2")
 			(effects
 				(font
 					(size 1 1)
@@ -13028,6 +13613,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f758647-487b-4505-ac26-81a1c9e6a4c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/53e6d779-a08b-4b77-b9ca-52714bd8104f")
 		(sheetname "/Controller/")
@@ -13227,11 +13825,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "edcb256d-27a2-43d3-8937-6aae939f5f37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/7353675c-d103-4ddd-b35b-5d7a16013552")
 		(sheetname "/")
 		(sheetfile "Gaus-Beschleuniger.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -2.66 4.72)
 			(end -2.66 -5.32)
@@ -13631,6 +14242,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C441864"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c4e3e80-baa8-48e9-af69-d9b4f30983b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/cf318ed3-642d-4311-936a-75f365c4e899")
 		(sheetname "/5V Buck/")
@@ -13849,6 +14473,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2343c65f-7880-420a-8e3a-45f878596d2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b02f381c-8597-4c5e-8de2-a5ebb0662303")
 			(effects
 				(font
 					(size 1 1)
@@ -14101,11 +14738,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5be004a2-8810-42a3-8cfa-40e322ea4dd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Arduino*Nano*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/3d61e7ac-cb44-4494-9ec3-de5afa0fdd09")
 		(sheetname "/Controller/")
 		(sheetfile "Controller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 3.68 42.04)
 			(end 3.68 31.62)
@@ -14860,6 +15510,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a8857b8-f8d6-4d42-a755-34ed8296acb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8f518a48-7d52-47cc-b792-e6bb77246449")
 		(sheetname "/")
@@ -15091,6 +15754,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dac05069-b60f-45f0-b81a-631ae624e119")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/53e200f3-a90a-4a29-a109-2e131bce6e8b")
 		(sheetname "/Firing-Stage/")
@@ -15290,6 +15966,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd4439a7-fc9b-4d76-b5e6-551f12ebeae9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/5b048dc1-12f4-443e-9bc8-580a1cf4e318")
 		(sheetname "/")
@@ -15395,6 +16084,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13b9f02e-e244-4344-a9e0-06a0df757029")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3a6a753-d6c2-40a5-a551-b4b27286b0b4")
 			(effects
 				(font
 					(size 1 1)
@@ -15609,6 +16311,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9b4ab0de-7fac-466c-9608-4a5ecbfefd71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C93157"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7a579e1-224d-4ddc-8e20-f30ddc05d482")
 			(effects
 				(font
 					(size 1 1)
@@ -15898,6 +16613,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72c37488-b78c-4b1b-8e78-5d360a247bd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/8957256f-1caf-4b48-8a3a-d5127720443f")
 		(sheetname "/Firing-Stage/")
@@ -16112,6 +16840,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "968c1740-ea60-4829-894e-06b48e7ecd00")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16395,6 +17136,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C28233"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f133166-ab7e-4932-89e6-4170786f7a52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/71f62e7a-109f-40b4-a167-4a9b76b5446b")
 		(sheetname "/5V Buck/")
@@ -16613,6 +17367,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b3e689ae-bfad-4321-87de-66a6f2165fcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "309db0a2-848a-4b9c-9ea1-dbb6e139834d")
 			(effects
 				(font
 					(size 1 1)
@@ -16864,6 +17631,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf990c64-8012-4074-a621-955772c618c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/d5123592-d050-4c21-9927-e2f25a533022")
 		(sheetname "/Cap-Charger/")
@@ -17059,6 +17839,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abae4489-8d61-48df-b64e-2952fc4d6d64")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17342,6 +18135,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06ce4f08-c256-43a1-b78b-4253541dcb28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/d281b59c-eec4-47d2-a7ff-917fc66df09e")
 		(sheetname "/Cap-Charger/")
@@ -17586,6 +18392,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62549795-7979-4278-a84e-960bfa9695ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/b30f0507-42fe-41cb-9adf-fbafa2fd950a")
 		(sheetname "/Firing-Stage/")
@@ -17812,6 +18631,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2c094c86-1bb2-4b9a-92e3-472bbc556690")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79a7632d-f0c9-431d-aeb9-b365831830b3")
 			(effects
 				(font
 					(size 1 1)
@@ -18176,6 +19008,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3dbea420-5b78-4100-8bef-abfe8770b0cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/1a5c3b10-7c49-4b5e-baa4-30219e3714b5")
 		(sheetname "/")
@@ -18275,11 +19120,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb8fa894-10c2-4cd8-b533-2c04a9a3a940")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/3a57abc5-f3d2-4d32-8bee-f7d1351c6bc4")
 		(sheetname "/Controller/")
 		(sheetfile "Controller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -18546,6 +19404,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e70dfd82-5aad-4c3b-b8b5-d5f6b7092bfc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18829,6 +19700,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "109c547d-51e7-4018-bac3-353f28e82fc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/f9133812-e41f-4029-9b46-d0a64d994941")
 		(sheetname "/Cap-Charger/")
@@ -19041,6 +19925,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6baf3bc-f7f9-416b-8cb5-e47af994b3b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/94471eed-e420-43c4-b5db-90c513baad80")
 		(sheetname "/Firing-Stage/")
@@ -19240,11 +20137,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9824c1c8-d996-480a-97e0-65cf75918a8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/959e2928-b786-468b-8794-13e271fe8794")
 		(sheetname "/Controller/")
 		(sheetfile "Controller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -19512,6 +20422,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8c8a34cd-6927-4812-9203-8b0c9fd921b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91210569-af18-41bf-9098-5527bc8a8e4c")
 			(effects
 				(font
 					(size 1 1)
@@ -19891,6 +20814,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C93157"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e147c6b1-a89b-457f-85cb-8100e0dcb4e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SW*Omron*B3FS*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/e020ea79-349e-45f2-bb34-1d2c9bdf0b16")
 		(sheetname "/Controller/")
@@ -20173,6 +21109,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C2167328"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e94fbdf-3412-4584-81ed-20eeee89c287")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/778c29c7-d11b-431a-a607-93d053d3d3f1")
 		(sheetname "/Cap-Charger/")
@@ -20378,6 +21327,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b1b2361-4fd0-45c1-bd7c-0e199834c986")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98b888bc-1012-43c7-8728-65897cce73af")
 			(effects
 				(font
 					(size 1 1)
@@ -20597,6 +21559,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "818e784a-c4ad-4eac-a9f7-bb66d1f66aa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/d5167894-966c-4230-bc4e-f7a6f1e2bbcf")
 		(sheetname "/5V Buck/")
@@ -20796,6 +21771,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8dfa40e7-5473-4973-a8f9-ae6740810b6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/795966e1-0716-4098-86d1-f7d5e04d4c0d")
 		(sheetname "/")
@@ -20901,6 +21889,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "51c177ad-2a71-4bc3-b3b0-71930158ddc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C109392"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81b7b2ed-07d6-403f-98d3-be058a4529e2")
 			(effects
 				(font
 					(size 1 1)
@@ -22436,6 +23437,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9bba4b0-523d-40ae-b5d9-a872ca6b05c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/35beec44-8a92-44cf-b2dc-60575c4be872")
 		(sheetname "/Firing-Stage/")
@@ -22654,6 +23668,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "37e6a423-3037-4253-8c90-480b95195b23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62d7b86d-7525-4962-9d35-705ff1a1afae")
 			(effects
 				(font
 					(size 1 1)
@@ -22892,6 +23919,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C273823"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5085d150-f171-47f7-b2c5-88ef3d0ad1c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/2b0326cc-c728-4f33-a867-16ee18d95b2b")
 		(sheetname "/5V Buck/")
@@ -23091,6 +24131,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30cc8b31-6ae8-4340-9bb1-b74d7a3501ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b94efd2e-24e6-4647-8666-71e10f971d7f")
 		(sheetname "/")
@@ -23155,7 +24208,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "LT3750"
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(uuid "648f7dd6-0a8c-4120-88c6-2a537dcecbeb")
@@ -23190,12 +24243,25 @@
 				)
 			)
 		)
-		(property "MPN" "LT3750AEMS#TRPBF"
+		(property "MPN" "LT3750"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b8542226-6086-4a51-9adc-2884065c30c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C580129"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1c9cda0-2719-4625-8290-0281bcedb145")
 			(effects
 				(font
 					(size 1 1)
@@ -23631,6 +24697,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C13832"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c53f28b4-ef9e-42bc-a610-5c10c31fef7c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/45a7fa93-e4bd-4a82-bb5d-2e7e96a1ddb4")
 		(sheetname "/5V Buck/")
@@ -23856,6 +24935,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C13832"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47f37e71-4e28-4040-bd88-7d7050aa253c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/6d4f50bc-60f1-40fc-b124-da4d3ed588ce")
 		(sheetname "/5V Buck/")
@@ -24055,11 +25147,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35946a11-6213-4137-9917-a14d3dc7e750")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/5bf3b8d5-ed08-49fd-870f-bda4be667bf9")
 		(sheetname "/Cap-Charger/")
 		(sheetfile "Cap-Charger.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -24325,6 +25430,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4fb70364-f0ed-4bea-bf6a-c23db788917d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C13914"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2ae9799-5e10-4acc-a33f-11d31818c16b")
 			(effects
 				(font
 					(size 1 1)
@@ -24728,6 +25846,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0065bd8b-fd84-444a-b2c2-f278d58ea2f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/27ecad1b-8b4e-44ae-9086-d7b88efbf68f")
 		(sheetname "/Controller/")
@@ -24940,6 +26071,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef094492-ad00-4061-ab03-d61a3525ae21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/00b744cc-00d1-47ab-8dca-b15e8f3725e6")
 		(sheetname "/Controller/")
@@ -25145,6 +26289,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a84bf5c6-7042-4d7e-a2d3-33e5bf5ec874")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b1b56fe-44a7-4d5d-9858-c33f2db43bc1")
 			(effects
 				(font
 					(size 1 1)
@@ -25370,6 +26527,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83ffa899-61e5-4b69-b932-d5edd476f8d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c2c3a13-1a94-4b88-90b4-a193b4e93d14")
 			(effects
 				(font
 					(size 1 1)
@@ -25608,6 +26778,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3e718aa-2733-4fef-9cb7-f2f18a720826")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/6b167cd4-3d22-49db-91ed-dcd7bd59c7c0")
 		(sheetname "/Controller/")
@@ -25820,6 +27003,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5beca937-db2e-48e5-ad68-de447a84a837")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/36148e2d-a4dd-4259-8900-570554ae2dcd")
 		(sheetname "/Cap-Charger/")
@@ -26019,6 +27215,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4463bd83-4d51-485b-985e-ccac867530e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/89c48282-5409-4510-8d77-5bf05224cb3a")
 		(sheetname "/")
@@ -26118,11 +27327,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea7be9cd-a88c-43b4-a841-4bb43f575040")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/f61603fc-0778-4b36-8d68-d7506949e9f6")
 		(sheetname "/Controller/")
 		(sheetfile "Controller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
 			(end 1.33 8.95)
@@ -26406,6 +27628,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bb899d2-4bac-4b67-8bbd-e40a648d43ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/65adcb13-2770-4a90-9acd-f69a54a7b35a")
 		(sheetname "/Controller/")
@@ -26618,6 +27853,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "302e4de9-1cb3-43bb-9cdd-893412b1d2f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/00659817-4803-4170-a767-60c51e4f23e2")
 		(sheetname "/Firing-Stage/")
@@ -26817,11 +28065,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b210c06-c4bb-45ab-912e-5aa0dd22f44b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/ec16d6c0-12d0-428e-9ec3-ca6162e298a3")
 		(sheetname "/Controller/")
 		(sheetfile "Controller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -27096,6 +28357,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C3224592"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fad8dc59-7294-406f-83d7-60b0ad2cc45b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/2ccd1446-b669-433d-a90b-77e01738eddf/342075de-c342-4281-b960-a5b46bae045e")
 		(sheetname "/5V Buck/")
@@ -27361,6 +28635,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5349be5f-fae4-4e43-bb40-3db318309687")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/16b7449f-2279-4f56-bca2-d3d79fc327ae")
 		(sheetname "/Firing-Stage/")
@@ -27612,6 +28899,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6d78c23-2a09-4509-86c3-ea21f147d814")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C17179478"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6abc81a-fb86-47fe-89c3-00075b7c0c92")
 			(effects
 				(font
 					(size 1 1)
@@ -27976,11 +29276,24 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a85de9a7-45d8-4df7-914c-9ddc9648e2fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/4a213efb-cdb1-4758-a7f0-e8a69cd58b57")
 		(sheetname "/Cap-Charger/")
 		(sheetfile "Cap-Charger.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -28277,6 +29590,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d587497b-3ff4-45e4-8db4-bc64f282d9a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f8432b3f-cc9f-454c-8f6f-b5aa5cb5e8ca")
 		(sheetname "/")
@@ -28502,6 +29828,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a65e43d6-7f8f-4861-af12-c2061b51c3aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C4950128"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32c44f57-414a-4b79-a6b8-4d2f65793958")
 			(effects
 				(font
 					(size 1 1)
@@ -28928,6 +30267,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "629fd54f-a864-45df-89d4-fb70539b9574")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/b57999d1-1604-4d7f-a235-28733019dfdb")
 		(sheetname "/Firing-Stage/")
@@ -29159,6 +30511,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "982fc736-736c-4093-8dfb-6ffe48c10188")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/53b15ddf-8d94-4bfc-8b15-814032eafdb2")
 		(sheetname "/Firing-Stage/")
@@ -29358,7 +30723,7 @@
 				)
 			)
 		)
-		(property "MPN" "885342208018"
+		(property "MPN" "CC1206KKX7RDBB102"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29377,6 +30742,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9fd1b789-5f02-4e85-bf11-535447cb51fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C23631"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8ea2ce8-e8f3-4bee-8fa6-c35ce883a8d3")
 			(effects
 				(font
 					(size 1 1)
@@ -29591,6 +30969,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee25567a-6c5f-4a74-9d39-8541ea3904b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C7436537"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "034fb0b1-634c-4d6e-a5c8-311737d44b75")
 			(effects
 				(font
 					(size 1 1)
@@ -29885,6 +31276,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b12ee9f-70dd-4307-846b-6f5136b3359c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Transformer*Wuerth*760871131*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/4ea02ecf-52c9-4c97-a200-4b081436f896")
 		(sheetname "/Cap-Charger/")
@@ -30110,6 +31514,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec864e13-c13f-46a8-adfa-e78027e3d9f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/d4f4f2fb-41d8-498d-b54c-cf58a5bf1aa9")
 		(sheetname "/Firing-Stage/")
@@ -30329,6 +31746,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30bf7a37-4bf7-40e4-a870-8900f917a90f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fa1d70c0-30f1-4809-884f-70139bb3b63b/9cc38edb-3cd6-46e2-b6e5-a0fd7fa5c3ac")
 		(sheetname "/Controller/")
@@ -30534,6 +31964,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4c81b8d1-10d4-4111-b40e-8a08103514e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03527081-1e82-4aea-9f23-41c7f795acae")
 			(effects
 				(font
 					(size 1 1)
@@ -30766,6 +32209,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff1e5c98-1239-47a3-83f1-205c9723ee29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/89601b47-33d3-45bd-90a7-6d36528e5bd8/b6a316a5-328c-4e78-9201-ac080e338594")
 		(sheetname "/Cap-Charger/")
@@ -30930,7 +32386,7 @@
 				)
 			)
 		)
-		(property "Value" "2k 5W SQP10AJB-2K"
+		(property "Value" "2k"
 			(at 30.48 7.37 0)
 			(layer "F.Fab")
 			(uuid "ac7eabed-6e8e-4624-8bb4-b692430a043a")
@@ -30953,7 +32409,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5W cement resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30971,6 +32427,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2c80def4-bdd2-4769-81c4-6776a5e66663")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C20166277"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d6d3118-e0cb-401b-90c8-386c2b6d6640")
 			(effects
 				(font
 					(size 1 1)
@@ -31171,6 +32640,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed9ce7b4-ce8f-4159-ae08-24798c98158f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" "C51205"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c16bc6ad-284c-4a85-8ceb-7c1d72a737d1")
 			(effects
 				(font
 					(size 1 1)
@@ -31396,6 +32878,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e6861bf-9930-4990-a300-97a1cca759f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "138535ff-60b9-44d7-b654-e3212b9ef060")
 			(effects
 				(font
 					(size 1 1)
@@ -31629,6 +33124,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "67650077-9582-4700-8aae-8f948156fb67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC_Part_#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f615e600-735e-49de-9973-f85c446864d0")
 			(effects
 				(font
 					(size 1 1)
@@ -31914,6 +33422,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C6980548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d4efbfb-ae41-4894-9766-dcc9a590973c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/c6dda822-a502-46dd-994d-e8fa7c7f3ef0")
 		(sheetname "/Firing-Stage/")
@@ -32170,6 +33691,19 @@
 				)
 			)
 		)
+		(property "LCSC_Part_#" "C5842544"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b161ab3f-5b99-4af8-88ee-cdfdc456883a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/520b4e93-f0f1-42d5-a13f-eb87ee382c2e")
 		(sheetname "/Firing-Stage/")
@@ -32379,6 +33913,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "39af339d-ab62-4c52-87ef-6a5e59a7596d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d1ca1db-d6c9-4e8f-bbcf-128def2275e5")
 			(effects
 				(font
 					(size 1 1)
@@ -38101,6 +39649,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42262565-bbc4-4193-a6d6-bf305db0fd54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/95f605dd-744b-4382-98f4-6f107df4923e")
 		(sheetname "/Firing-Stage/")
@@ -43807,6 +45369,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a1db358f-8f45-45f8-9440-de288f371165")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0ad1d734-7b38-4faa-8653-7e284137d621")
 			(effects
 				(font
 					(size 1 1)
@@ -49529,6 +51105,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6b528f1-442e-44d2-a030-acb1cd245927")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/a940ca2a-2324-4239-b22b-33e87ded27e2")
 		(sheetname "/Firing-Stage/")
@@ -55231,6 +56821,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC_Part_#" "C5334533"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f1190baf-fe05-48c2-b564-d23f958e3b72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/843263df-5a4f-4a32-9ae5-bdda2e5a0435")
 		(sheetname "/")
 		(sheetfile "Gaus-Beschleuniger.kicad_sch")
@@ -55525,6 +57129,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f999f854-3ac3-4892-920d-3364d445b670")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_Part_#" "C335786"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a1557d45-a6e8-40fe-89ed-d8d831d9f069")
 			(effects
 				(font
 					(size 1 1)
@@ -56099,6 +57717,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "eade7bcb-c5b0-4a6a-80aa-b6a2b56215f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "413527bd-b804-45b0-a5cf-d601065ca4d4")
 			(effects
 				(font
 					(size 1 1)
@@ -61821,6 +63453,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b832927c-9a5f-466e-a616-7396ad815e96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/cc24773e-7d5c-4953-821f-0178d41ce825")
 		(sheetname "/Firing-Stage/")
@@ -67527,6 +69173,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2c75194f-cf64-406b-aa86-8afd39f0be47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a05f6530-8765-4a39-b485-c96143cf8d94")
 			(effects
 				(font
 					(size 1 1)
@@ -73249,6 +74909,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC_Part_#" "C335786"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63d8e7a6-da48-4479-974f-c46c7685c42a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/05c028e1-e7a6-4a84-9923-9f1077c3de04/5faa64fe-ecc8-4df8-94dd-5ee1aec30008")
 		(sheetname "/Firing-Stage/")
 		(sheetfile "Firing-Stage.kicad_sch")
@@ -73815,6 +75489,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "62dfe4e8-046a-47fa-a89e-ea8c1d079c44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC_Part_#" "C1589731"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c1d0b773-c370-413d-8b08-2692fed16fbd")
 			(effects
 				(font
 					(size 1 1)

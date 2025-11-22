@@ -4092,7 +4092,7 @@
 				)
 			)
 		)
-		(property "Value" "1000V"
+		(property "Value" "US2M_HF"
 			(at 173.99 66.04 0)
 			(effects
 				(font
@@ -4146,6 +4146,24 @@
 			)
 		)
 		(property "MPN" "US2M_HF"
+			(at 173.99 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C17247425"
+			(at 173.99 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "1000V"
 			(at 173.99 69.85 0)
 			(effects
 				(font
@@ -4241,6 +4259,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 62.23 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc4757be-b574-44c7-bc82-600c1b8e31bc")
 		)
@@ -4309,6 +4336,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 86.36 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 86.36 87.63 90)
 			(effects
 				(font
@@ -4528,6 +4564,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C4210186"
+			(at 130.81 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33046420-eb15-4a3a-9b83-1ea3331a6fb1")
 		)
@@ -4606,6 +4651,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C109392"
+			(at 130.81 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b11f0019-d99d-460d-a695-4aa7a801602b")
 		)
@@ -4628,7 +4682,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4a213efb-cdb1-4758-a7f0-e8a69cd58b57")
 		(property "Reference" "J8"
@@ -4666,6 +4720,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 191.77 91.44 0)
 			(effects
 				(font
@@ -4767,6 +4830,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 67.31 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10fb7b97-0bf9-4010-8941-65f902f6db84")
 		)
@@ -4844,6 +4916,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 161.29 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "e7511c93-e4ed-4cce-afd4-e3d2024e87bc")
 		)
@@ -4890,7 +4971,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5bf3b8d5-ed08-49fd-870f-bda4be667bf9")
 		(property "Reference" "J9"
@@ -4928,6 +5009,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 30.48 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" ""
 			(at 30.48 69.85 0)
 			(effects
 				(font
@@ -5018,6 +5108,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C7023635"
+			(at 153.67 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a47c1753-fed4-4e14-b140-c91e33803c33")
 		)
@@ -5097,6 +5196,15 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 140.97 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C2167328"
 			(at 140.97 104.14 0)
 			(effects
 				(font
@@ -5315,6 +5423,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C232444"
+			(at 40.64 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2951b65b-17c1-47be-b433-b774f8f93a9a")
 		)
@@ -5394,6 +5511,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C84376"
+			(at 99.06 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82c5d1a9-5dc0-4a0d-b550-168fa93e8833")
 		)
@@ -5464,6 +5590,15 @@
 			)
 		)
 		(property "MPN" "35ZLH100MEFC6.3X11"
+			(at 118.11 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C109392"
 			(at 118.11 68.58 0)
 			(effects
 				(font
@@ -5674,7 +5809,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885342208018"
+		(property "MPN" "CC1206KKX7RDBB102"
 			(at 180.34 73.66 0)
 			(effects
 				(font
@@ -5684,6 +5819,15 @@
 			)
 		)
 		(property "Voltage" "1000V"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C23631"
 			(at 180.34 73.66 0)
 			(effects
 				(font
@@ -5762,6 +5906,15 @@
 		)
 		(property "MPN" "RC0603FR-0760K4L"
 			(at 143.51 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C165742"
+			(at 143.51 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5868,7 +6021,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "LT3750"
 			(at 117.348 69.85 0)
 			(effects
 				(font
@@ -5904,7 +6057,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LT3750AEMS#TRPBF"
+		(property "MPN" "LT3750"
+			(at 115.57 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C580129"
 			(at 115.57 87.63 0)
 			(effects
 				(font
@@ -6016,6 +6178,15 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 77.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C51205"
 			(at 77.47 73.66 0)
 			(effects
 				(font
@@ -6237,6 +6408,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C13914"
+			(at 151.13 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "7a72b894-7ad7-4c5b-9b08-1556a795ffbe")
 		)
@@ -6340,6 +6520,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 95.25 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ffd5a24e-871b-41d5-8de9-10681a7291b7")
 		)
@@ -6419,6 +6608,15 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 57.15 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C51205"
 			(at 57.15 86.36 0)
 			(effects
 				(font
@@ -6514,6 +6712,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5337c0f-0a49-40c7-9722-5803aa64398c")
 		)
@@ -6601,6 +6808,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C51205"
+			(at 82.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f112d315-a3b2-4cf0-9477-44098b7afe21")
 		)
@@ -6671,6 +6887,15 @@
 		)
 		(property "MPN" "RC0603FR-0743KL"
 			(at 135.89 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C137719"
+			(at 135.89 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)

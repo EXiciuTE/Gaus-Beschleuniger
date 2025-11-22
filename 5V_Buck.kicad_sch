@@ -1654,7 +1654,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LMR50410XFDBVR"
+		(property "MPN" " LMR50410XDBVR"
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C2841056"
 			(at 76.2 46.99 0)
 			(effects
 				(font
@@ -1762,6 +1771,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C13832"
+			(at 33.02 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f423a5eb-8171-46fe-8170-ec5b94f50f69")
 		)
@@ -1841,6 +1859,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C273823"
+			(at 109.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ecd5d35f-9469-4cf4-b3ae-81ba2eb53961")
 		)
@@ -1910,6 +1937,15 @@
 			)
 		)
 		(property "MPN" "SRN6045-150M"
+			(at 102.87 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C3224592"
 			(at 102.87 46.99 90)
 			(effects
 				(font
@@ -2137,6 +2173,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C13832"
+			(at 45.72 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55f3b651-39af-4ccf-bc49-f67febec6795")
 		)
@@ -2290,6 +2335,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C13832"
+			(at 39.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40f5288d-fde9-427b-b26a-1fe9578d9daf")
 		)
@@ -2377,6 +2431,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C28233"
+			(at 52.07 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e72e3a2a-f5c0-4613-bb1a-fc4266dc51ef")
 		)
@@ -2447,6 +2510,15 @@
 			)
 		)
 		(property "MPN" "AC0805FR-0722K1L"
+			(at 109.22 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C228640"
 			(at 109.22 63.5 0)
 			(effects
 				(font
@@ -2534,6 +2606,15 @@
 			)
 		)
 		(property "Voltage" "100V"
+			(at 91.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C28233"
 			(at 91.44 44.45 0)
 			(effects
 				(font
@@ -2696,6 +2777,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" ""
+			(at 133.35 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e80556ce-28a5-4664-bd5a-602e73d4dcf2")
 		)
@@ -2783,6 +2873,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC_Part_#" "C441864"
+			(at 125.73 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8a848aa-ee2c-4890-8cee-a3507214498a")
 		)
@@ -2854,6 +2953,15 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0710KL"
+			(at 133.35 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C84376"
 			(at 133.35 54.61 0)
 			(effects
 				(font
@@ -2941,6 +3049,15 @@
 			)
 		)
 		(property "Voltage" "10V"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_Part_#" "C441864"
 			(at 118.11 58.42 0)
 			(effects
 				(font
